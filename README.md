@@ -25,8 +25,7 @@ FontEasy's sources are private; the guide lives in the public repository
 split out of the FontEasy repository. From the FontEasy repository:
 
 ```
-git subtree split --prefix guide -b guide-public
-git push https://github.com/s4rt4/fonteasy-guide.git guide-public:main
+git push https://github.com/s4rt4/fonteasy-guide.git "$(git subtree split --prefix guide)":refs/heads/main
 ```
 
 A push there publishes the site (`.github/workflows/pages.yml`). Releases of
