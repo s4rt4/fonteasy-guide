@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380">
+<text x="400.0" y="30.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="bold">The four corner squares tell FontEasy where the page is</text>
+<polygon points="80,95 330,62 352,318 52,300" fill="#eef0f7" stroke="#1f2330" stroke-width="1.5"/>
+<polygon points="105.6,133.3 142.0,130.1 139.6,165.0 102.1,167.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="101.6,171.3 139.3,169.4 136.9,204.3 98.1,205.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="97.7,209.3 136.6,208.6 134.2,243.6 94.2,243.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="93.7,247.3 133.9,247.9 131.5,282.9 90.2,281.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="145.1,129.8 181.5,126.6 180.3,162.8 142.8,164.8" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="142.5,169.2 180.2,167.3 179.0,203.5 140.2,204.2" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="139.9,208.6 178.9,208.0 177.7,244.1 137.6,243.6" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="137.3,248.0 177.5,248.7 176.3,284.8 135.0,283.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="184.6,126.3 221.0,123.1 221.1,160.5 183.6,162.6" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="183.4,167.1 221.1,165.2 221.1,202.6 182.3,203.4" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="182.2,207.9 221.1,207.3 221.1,244.7 181.1,244.2" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="181.0,248.7 221.1,249.4 221.2,286.8 179.9,285.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="224.2,122.9 260.6,119.7 261.8,158.3 224.3,160.4" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="224.3,165.1 262.0,163.1 263.2,201.8 224.4,202.6" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="224.4,207.2 263.4,206.6 264.6,245.3 224.6,244.7" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="224.6,249.4 264.8,250.1 266.0,288.7 224.7,286.9" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="263.7,119.4 300.1,116.2 302.5,156.1 265.0,158.1" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="265.2,163.0 302.9,161.1 305.3,201.0 266.5,201.7" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="266.7,206.6 305.6,205.9 308.1,245.8 268.0,245.3" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<polygon points="268.2,250.2 308.4,250.8 310.9,290.7 269.6,288.9" fill="#ffffff" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="86.2" y="100.6" width="14.0" height="14.0" rx="0" fill="#1f2330" stroke="none" stroke-width="1.5"/>
+<rect x="309.3" y="74.7" width="14.0" height="14.0" rx="0" fill="#1f2330" stroke="none" stroke-width="1.5"/>
+<rect x="325.7" y="292.2" width="14.0" height="14.0" rx="0" fill="#1f2330" stroke="none" stroke-width="1.5"/>
+<rect x="64.8" y="279.5" width="14.0" height="14.0" rx="0" fill="#1f2330" stroke="none" stroke-width="1.5"/>
+<line x1="385.0" y1="190.0" x2="432.0" y2="190.0" stroke="#0f0e3d" stroke-width="3"/><polygon points="445.0,190.0 432.0,196.5 432.0,183.5" fill="#0f0e3d"/>
+<rect x="470.0" y="70.0" width="280.0" height="240.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="503.6" y="118.0" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="503.6" y="161.2" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="503.6" y="204.4" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="503.6" y="247.6" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="546.2" y="118.0" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="546.2" y="161.2" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="546.2" y="204.4" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="546.2" y="247.6" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="588.7" y="118.0" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="588.7" y="161.2" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="588.7" y="204.4" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="588.7" y="247.6" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="631.3" y="118.0" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="631.3" y="161.2" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="631.3" y="204.4" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="631.3" y="247.6" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="673.8" y="118.0" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="673.8" y="161.2" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="673.8" y="204.4" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="673.8" y="247.6" width="39.2" height="38.4" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="479.8" y="79.8" width="14.0" height="14.0" rx="0" fill="#1f2330" stroke="none" stroke-width="1.5"/>
+<rect x="726.2" y="79.8" width="14.0" height="14.0" rx="0" fill="#1f2330" stroke="none" stroke-width="1.5"/>
+<rect x="726.2" y="286.2" width="14.0" height="14.0" rx="0" fill="#1f2330" stroke="none" stroke-width="1.5"/>
+<rect x="479.8" y="286.2" width="14.0" height="14.0" rx="0" fill="#1f2330" stroke="none" stroke-width="1.5"/>
+<text x="200.0" y="356.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">a photo taken at a slight angle</text>
+<text x="610.0" y="356.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">the page as FontEasy reads it</text>
+</svg>

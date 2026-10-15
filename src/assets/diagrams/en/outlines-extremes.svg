@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 375" width="800" height="375" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif">
+<path d="M320.0 170.0C320.0 101.0 266.3 45.0 200.0 45.0C133.7 45.0 80.0 101.0 80.0 170.0C80.0 239.0 133.7 295.0 200.0 295.0C266.3 295.0 320.0 239.0 320.0 170.0Z" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="2.5" />
+<line x1="320.0" y1="170.0" x2="320.0" y2="101.0" stroke="#9aa0b4" stroke-width="1.4"/>
+<line x1="200.0" y1="45.0" x2="266.3" y2="45.0" stroke="#9aa0b4" stroke-width="1.4"/>
+<line x1="200.0" y1="45.0" x2="133.7" y2="45.0" stroke="#9aa0b4" stroke-width="1.4"/>
+<line x1="80.0" y1="170.0" x2="80.0" y2="101.0" stroke="#9aa0b4" stroke-width="1.4"/>
+<line x1="80.0" y1="170.0" x2="80.0" y2="239.0" stroke="#9aa0b4" stroke-width="1.4"/>
+<line x1="200.0" y1="295.0" x2="133.7" y2="295.0" stroke="#9aa0b4" stroke-width="1.4"/>
+<line x1="200.0" y1="295.0" x2="266.3" y2="295.0" stroke="#9aa0b4" stroke-width="1.4"/>
+<line x1="320.0" y1="170.0" x2="320.0" y2="239.0" stroke="#9aa0b4" stroke-width="1.4"/>
+<circle cx="320.0" cy="101.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="266.3" cy="45.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="133.7" cy="45.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="80.0" cy="101.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="80.0" cy="239.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="133.7" cy="295.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="266.3" cy="295.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="320.0" cy="239.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="320.0" cy="170.0" r="5.5" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<circle cx="200.0" cy="45.0" r="5.5" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<circle cx="80.0" cy="170.0" r="5.5" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<circle cx="200.0" cy="295.0" r="5.5" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<text x="200.0" y="335.0" font-size="20" text-anchor="middle" fill="#2a9d8f" font-weight="700">Good</text>
+<text x="200.0" y="359.0" font-size="18" text-anchor="middle" fill="#4a5068" font-weight="normal">nodes at top, bottom, left, right</text>
+<path d="M684.9 81.6C638.0 32.8 562.0 32.8 515.1 81.6C468.3 130.4 468.3 209.6 515.1 258.4C562.0 307.2 638.0 307.2 684.9 258.4C731.7 209.6 731.7 130.4 684.9 81.6Z" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="2.5" />
+<line x1="684.9" y1="81.6" x2="638.0" y2="32.8" stroke="#9aa0b4" stroke-width="1.4"/>
+<line x1="515.1" y1="81.6" x2="562.0" y2="32.8" stroke="#9aa0b4" stroke-width="1.4"/>
+<line x1="515.1" y1="81.6" x2="468.3" y2="130.4" stroke="#9aa0b4" stroke-width="1.4"/>
+<line x1="515.1" y1="258.4" x2="468.3" y2="209.6" stroke="#9aa0b4" stroke-width="1.4"/>
+<line x1="515.1" y1="258.4" x2="562.0" y2="307.2" stroke="#9aa0b4" stroke-width="1.4"/>
+<line x1="684.9" y1="258.4" x2="638.0" y2="307.2" stroke="#9aa0b4" stroke-width="1.4"/>
+<line x1="684.9" y1="258.4" x2="731.7" y2="209.6" stroke="#9aa0b4" stroke-width="1.4"/>
+<line x1="684.9" y1="81.6" x2="731.7" y2="130.4" stroke="#9aa0b4" stroke-width="1.4"/>
+<circle cx="638.0" cy="32.8" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="562.0" cy="32.8" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="468.3" cy="130.4" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="468.3" cy="209.6" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="562.0" cy="307.2" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="638.0" cy="307.2" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="731.7" cy="209.6" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="731.7" cy="130.4" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="684.9" cy="81.6" r="5.5" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<circle cx="515.1" cy="81.6" r="5.5" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<circle cx="515.1" cy="258.4" r="5.5" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<circle cx="684.9" cy="258.4" r="5.5" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<circle cx="600" cy="45" r="7" fill="none" stroke="#e63946" stroke-width="2.2" stroke-dasharray="3 3"/>
+<circle cx="600" cy="295" r="7" fill="none" stroke="#e63946" stroke-width="2.2" stroke-dasharray="3 3"/>
+<circle cx="480" cy="170" r="7" fill="none" stroke="#e63946" stroke-width="2.2" stroke-dasharray="3 3"/>
+<circle cx="720" cy="170" r="7" fill="none" stroke="#e63946" stroke-width="2.2" stroke-dasharray="3 3"/>
+<text x="600.0" y="335.0" font-size="20" text-anchor="middle" fill="#e63946" font-weight="700">Avoid</text>
+<text x="600.0" y="359.0" font-size="18" text-anchor="middle" fill="#4a5068" font-weight="normal">no node at the extremes</text>
+</svg>

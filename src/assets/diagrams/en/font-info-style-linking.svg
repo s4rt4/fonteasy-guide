@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" width="800" height="440">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#0f0e3d"/></marker></defs>
+<rect x="30" y="40" width="118" height="50" rx="8" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="89" y="72" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal" font-style="normal">Regular</text>
+<path d="M89 92 L560 118" fill="none" stroke="#0f0e3d" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="160" y="40" width="118" height="50" rx="8" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="219" y="72" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal" font-style="italic">Italic</text>
+<path d="M219 92 L580 118" fill="none" stroke="#0f0e3d" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="290" y="40" width="118" height="50" rx="8" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="349" y="72" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="700" font-style="normal">Bold</text>
+<path d="M349 92 L600 118" fill="none" stroke="#0f0e3d" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="420" y="40" width="118" height="50" rx="8" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="479" y="72" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="700" font-style="italic">Bold Italic</text>
+<path d="M479 92 L620 118" fill="none" stroke="#0f0e3d" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="640" y="62" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#0f0e3d" font-weight="600">Font menu in Word</text>
+<rect x="520" y="120" width="240" height="46" rx="8" fill="#ffffff" stroke="#0f0e3d" stroke-width="2"/>
+<text x="536" y="150" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="700">Nusantara</text>
+<rect x="670" y="128" width="26" height="30" rx="4" fill="#eef0f7" stroke="#9aa0b4" stroke-width="1.5"/>
+<text x="683" y="150" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="700">B</text>
+<rect x="702" y="128" width="26" height="30" rx="4" fill="#eef0f7" stroke="#9aa0b4" stroke-width="1.5"/>
+<text x="715" y="150" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal" font-style="italic">I</text>
+<text x="30" y="210" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="normal">Regular · Italic · Bold · Bold Italic: one entry, the B and I buttons switch between them</text>
+<rect x="30" y="250" width="118" height="50" rx="8" fill="#bfe3de" stroke="#2a9d8f" stroke-width="1.5"/>
+<text x="89" y="282" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="300">Light</text>
+<line x1="150" y1="275" x2="514" y2="275" stroke="#0f0e3d" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="520" y="252" width="240" height="46" rx="8" fill="#ffffff" stroke="#0f0e3d" stroke-width="2"/>
+<text x="536" y="282" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="700">Nusantara Light</text>
+<rect x="30" y="320" width="118" height="50" rx="8" fill="#bfe3de" stroke="#2a9d8f" stroke-width="1.5"/>
+<text x="89" y="352" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="600">SemiBold</text>
+<line x1="150" y1="345" x2="514" y2="345" stroke="#0f0e3d" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="520" y="322" width="240" height="46" rx="8" fill="#ffffff" stroke="#0f0e3d" stroke-width="2"/>
+<text x="536" y="352" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="700">Nusantara SemiBold</text>
+<text x="30" y="410" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="normal">Every other style gets an entry of its own</text>
+</svg>

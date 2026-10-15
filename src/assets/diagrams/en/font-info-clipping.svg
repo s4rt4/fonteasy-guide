@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" width="800" height="430">
+<defs><clipPath id="c0"><rect x="0" y="105.0" width="800" height="600"/></clipPath><clipPath id="c0b"><rect x="0" y="0" width="800" height="105.0"/></clipPath></defs>
+<path d="M242.4 250.8H302.7L272.7 161.7ZM181.5 330V317.7L206.7 313.8L270.6 127.5H289.5L353.4 315L375.9 317.7V330H294.3V317.7L323.7 314.1L307.2 264.9H237.6L221.1 313.8L250.2 317.7V330ZM259.2 106.2Q273 91.5 287.4 78Q293.7 71.7 297.9 69.2Q302.1 66.6 306 66.6Q310.8 66.6 314.1 69.5Q317.4 72.3 317.4 76.8Q317.4 80.7 314.2 84.6Q311.1 88.5 302.4 93.3Q293.1 98.4 283.6 103.5Q274.2 108.6 264.6 113.7Z" fill="#1f2330" clip-path="url(#c0)"/>
+<path d="M242.4 250.8H302.7L272.7 161.7ZM181.5 330V317.7L206.7 313.8L270.6 127.5H289.5L353.4 315L375.9 317.7V330H294.3V317.7L323.7 314.1L307.2 264.9H237.6L221.1 313.8L250.2 317.7V330ZM259.2 106.2Q273 91.5 287.4 78Q293.7 71.7 297.9 69.2Q302.1 66.6 306 66.6Q310.8 66.6 314.1 69.5Q317.4 72.3 317.4 76.8Q317.4 80.7 314.2 84.6Q311.1 88.5 302.4 93.3Q293.1 98.4 283.6 103.5Q274.2 108.6 264.6 113.7Z" fill="none" stroke="#e63946" stroke-width="1.5" stroke-dasharray="4 3" clip-path="url(#c0b)"/>
+<text x="320" y="71.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#e63946" font-weight="700">cut off</text>
+<line x1="80" y1="105.0" x2="400" y2="105.0" stroke="#e63946" stroke-width="2.5"/>
+<text x="80" y="95.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#e63946" font-weight="600">Windows ascent 750</text>
+<line x1="80" y1="330" x2="400" y2="330" stroke="#0f0e3d" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="400" y="354" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="end" fill="#0f0e3d" font-weight="normal">baseline</text>
+<text x="240" y="400" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#e63946" font-weight="700">Too low: the accent is cut off</text>
+<path d="M622.4 250.8H682.7L652.7 161.7ZM561.5 330V317.7L586.7 313.8L650.6 127.5H669.5L733.4 315L755.9 317.7V330H674.3V317.7L703.7 314.1L687.2 264.9H617.6L601.1 313.8L630.2 317.7V330ZM639.2 106.2Q653 91.5 667.4 78Q673.7 71.7 677.9 69.2Q682.1 66.6 686 66.6Q690.8 66.6 694.1 69.5Q697.4 72.3 697.4 76.8Q697.4 80.7 694.2 84.6Q691.1 88.5 682.4 93.3Q673.1 98.4 663.7 103.5Q654.2 108.6 644.6 113.7Z" fill="#1f2330"/>
+<line x1="460" y1="45.0" x2="780" y2="45.0" stroke="#2a9d8f" stroke-width="2.5"/>
+<text x="460" y="35.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#2a9d8f" font-weight="600">Windows ascent 950</text>
+<line x1="460" y1="330" x2="780" y2="330" stroke="#0f0e3d" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="780" y="354" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="end" fill="#0f0e3d" font-weight="normal">baseline</text>
+<text x="620" y="400" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#2a9d8f" font-weight="700">High enough: everything shows</text>
+</svg>

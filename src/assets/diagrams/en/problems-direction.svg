@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="800" height="340">
+<text x="200.0" y="36.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#e63946" font-weight="bold">Wrong contour direction</text>
+<text x="600.0" y="36.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#2a9d8f" font-weight="bold">Correct</text>
+<path d="M 310 170 A 110 105 0 1 0 90 170 A 110 105 0 1 0 310 170 Z M 252 170 A 52 60 0 1 0 148 170 A 52 60 0 1 0 252 170 Z" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="2"/>
+<polygon points="194.0,65.0 210.0,56.2 210.0,73.8" fill="#0f0e3d"/>
+<polygon points="206.0,275.0 190.0,283.8 190.0,266.2" fill="#0f0e3d"/>
+<polygon points="194.0,110.0 210.0,101.2 210.0,118.8" fill="#e63946"/>
+<polygon points="206.0,230.0 190.0,238.8 190.0,221.2" fill="#e63946"/>
+<path d="M 710 170 A 110 105 0 1 0 490 170 A 110 105 0 1 0 710 170 Z M 652 170 A 52 60 0 1 1 548 170 A 52 60 0 1 1 652 170 Z" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="2"/>
+<polygon points="594.0,65.0 610.0,56.2 610.0,73.8" fill="#0f0e3d"/>
+<polygon points="606.0,275.0 590.0,283.8 590.0,266.2" fill="#0f0e3d"/>
+<polygon points="606.0,110.0 590.0,118.8 590.0,101.2" fill="#2a9d8f"/>
+<polygon points="594.0,230.0 610.0,221.2 610.0,238.8" fill="#2a9d8f"/>
+<text x="200.0" y="322.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">both run the same way: no hole</text>
+<text x="600.0" y="322.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">outside anticlockwise, hole clockwise</text>
+</svg>

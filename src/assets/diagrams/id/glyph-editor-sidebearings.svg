@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" width="800" height="470" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif">
+<rect x="250.0" y="40" width="315.1" height="360.0" fill="#eef0f7"/>
+<line x1="20.0" y1="330.0" x2="780.0" y2="330.0" stroke="#9aa0b4" stroke-width="1.4"/>
+<text x="26.0" y="322.0" font-size="18" text-anchor="start" fill="#4a5068" font-weight="normal">baseline</text>
+<line x1="250.0" y1="30.0" x2="250.0" y2="450.0" stroke="#1f2330" stroke-width="1.6"/><line x1="565.1" y1="30.0" x2="565.1" y2="450.0" stroke="#1f2330" stroke-width="1.6"/>
+<line x1="267.7" y1="60.0" x2="267.7" y2="390.0" stroke="#5b5bf0" stroke-width="1.2" stroke-dasharray="5 4"/><line x1="549.5" y1="60.0" x2="549.5" y2="390.0" stroke="#5b5bf0" stroke-width="1.2" stroke-dasharray="5 4"/>
+<path d="M270.8 330H391.4V311.3L355.6 304C355 278 354.5 243.7 354.5 220.8V144.9C381 123 401.3 113.7 425.2 113.7C455.9 113.7 468.4 128.8 468.4 176.6V220.8C468.4 244.7 467.9 278.5 467.4 304L428.9 311.3V330H549.5V311.3L513.1 304C512.6 278 512.1 244.7 512.1 220.8V172.4C512.1 104.3 490.2 76.2 445.5 76.2C413.3 76.2 377.9 95.5 352.4 123L348.3 81.4L340.5 76.2L267.7 108V126.2L308.8 130.8C309.8 151.6 310.3 167.2 310.3 195.8V220.8C310.3 244.2 309.8 278 309.3 304L270.8 311.3Z" fill="#1f2330" stroke="none" stroke-width="0" />
+<line x1="267.7" y1="370.0" x2="255.0" y2="370.0" stroke="#5b5bf0" stroke-width="2"/><polygon points="250.0,370.0 260.0,366.8 260.0,373.2" fill="#5b5bf0"/><line x1="250.0" y1="370.0" x2="262.7" y2="370.0" stroke="#5b5bf0" stroke-width="2"/><polygon points="267.7,370.0 257.7,373.2 257.7,366.8" fill="#5b5bf0"/>
+<line x1="549.5" y1="370.0" x2="560.1" y2="370.0" stroke="#5b5bf0" stroke-width="2"/><polygon points="565.1,370.0 555.1,373.2 555.1,366.8" fill="#5b5bf0"/><line x1="565.1" y1="370.0" x2="554.5" y2="370.0" stroke="#5b5bf0" stroke-width="2"/><polygon points="549.5,370.0 559.5,366.8 559.5,373.2" fill="#5b5bf0"/>
+<text x="236.0" y="376.0" font-size="19" text-anchor="end" fill="#5b5bf0" font-weight="600">LSB</text>
+<text x="579.1" y="376.0" font-size="19" text-anchor="start" fill="#5b5bf0" font-weight="600">RSB</text>
+<line x1="407.6" y1="430.0" x2="255.0" y2="430.0" stroke="#1f2330" stroke-width="2"/><polygon points="250.0,430.0 260.0,426.8 260.0,433.2" fill="#1f2330"/><line x1="407.6" y1="430.0" x2="560.1" y2="430.0" stroke="#1f2330" stroke-width="2"/><polygon points="565.1,430.0 555.1,433.2 555.1,426.8" fill="#1f2330"/>
+<rect x="312.56" y="415.0" width="190" height="30" fill="#ffffff"/>
+<text x="407.6" y="436.0" font-size="19" text-anchor="middle" fill="#1f2330" font-weight="600">lebar advance</text>
+</svg>

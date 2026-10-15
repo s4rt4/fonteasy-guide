@@ -1,0 +1,54 @@
+---
+title: FontEasy Guide
+description: The complete guide to making fonts with FontEasy, for people who have never made a font before.
+template: splash
+hero:
+  title: Make your own font with FontEasy
+  tagline: A complete guide for beginners, from your very first letter to a finished font you can install, share and sell. Every term explained, every step shown.
+  image:
+    file: ../../assets/screens/en/g-edit.png
+  actions:
+    - text: Start reading
+      link: /fonteasy/start/welcome/
+      icon: right-arrow
+    - text: Download the PDF
+      link: https://github.com/s4rt4/fonteasy/releases/download/v1.5.0/FontEasy-Guide-EN.pdf
+      icon: download
+      variant: secondary
+    - text: Get FontEasy
+      link: https://github.com/s4rt4/fonteasy/releases/latest
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+## Where to begin
+
+<CardGrid>
+	<Card title="New to fonts?" icon="open-book">
+		Read [Anatomy of letters](/fonteasy/start/type-basics/) first: baseline, x-height, glyphs and the other words you will meet everywhere.
+	</Card>
+	<Card title="Want results today?" icon="rocket">
+		Follow [Your first font](/fonteasy/start/first-font/): a hands-on tutorial from an empty file to a font installed on your PC.
+	</Card>
+	<Card title="Looking for a word?" icon="document">
+		The [Glossary](/fonteasy/reference/glossary/) explains more than 120 font terms in plain language. Or press <kbd>/</kbd> to search.
+	</Card>
+	<Card title="Prefer paper?" icon="download">
+		The whole guide is also a [PDF book](https://github.com/s4rt4/fonteasy/releases/download/v1.5.0/FontEasy-Guide-EN.pdf) with a printable layout.
+	</Card>
+</CardGrid>
+
+## The parts of this guide
+
+<CardGrid>
+	<LinkCard title="I · Getting Started" description="Install FontEasy, learn the anatomy of letters and the interface, make your first font." href="/fonteasy/start/welcome/" />
+	<LinkCard title="II · Drawing Glyphs" description="Points and curves, every drawing tool, components, importing artwork, handwriting fonts." href="/fonteasy/drawing/outlines/" />
+	<LinkCard title="III · Spacing and Kerning" description="Give every letter the right room, then fix the awkward pairs." href="/fonteasy/spacing/metrics/" />
+	<LinkCard title="IV · OpenType Features" description="Ligatures, small caps, alternates and the visual lookup editor." href="/fonteasy/opentype/features/" />
+	<LinkCard title="V · Advanced Design" description="Variable fonts, colour fonts, drawing effects and automation." href="/fonteasy/advanced/variable/" />
+	<LinkCard title="VI · Finishing and Publishing" description="Font info, quality checks, exporting, testing, licensing and publishing." href="/fonteasy/production/font-info/" />
+	<LinkCard title="VII · For Power Users" description="Python scripting, plugins and preferences." href="/fonteasy/power/scripting/" />
+	<LinkCard title="Reference" description="Glossary, keyboard shortcuts and frequently asked questions." href="/fonteasy/reference/glossary/" />
+</CardGrid>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+<defs><marker id="a-1f2330" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1f2330"/></marker><marker id="a-0f0e3d" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#0f0e3d"/></marker><marker id="a-5b5bf0" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5b5bf0"/></marker><marker id="a-e63946" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#e63946"/></marker><marker id="a-2a9d8f" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#2a9d8f"/></marker><marker id="a-f4a261" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#f4a261"/></marker><marker id="a-9aa0b4" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#9aa0b4"/></marker></defs>
+<rect x="10.0" y="10.0" width="780.0" height="480.0" rx="8" fill="#ffffff" stroke="#0f0e3d" stroke-width="2"/>
+<rect x="10.0" y="10.0" width="780.0" height="40.0" rx="8" fill="#0f0e3d"/>
+<rect x="10.0" y="30.0" width="780.0" height="20.0" rx="0" fill="#0f0e3d"/>
+<text x="24.0" y="37.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#ffffff" font-weight="600">Bilah judul: menu · Beranda · cari · Pro / Sederhana</text>
+<rect x="10.0" y="50.0" width="780.0" height="34.0" rx="0" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<text x="70.0" y="73.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="17" text-anchor="start" fill="#1f2330">Bilah opsi: pengaturan dan petunjuk alat aktif</text>
+<rect x="10.0" y="84.0" width="46.0" height="370.0" rx="0" fill="#dfe2ee" stroke="#d5d8e3" stroke-width="1"/>
+<text x="38" y="270" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#0f0e3d" font-weight="600" transform="rotate(-90 38 270)">Kotak Alat</text>
+<rect x="56.0" y="84.0" width="524.0" height="30.0" rx="0" fill="#f4f5fa" stroke="#d5d8e3" stroke-width="1"/>
+<text x="66.0" y="105.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="start" fill="#1f2330">Tab font, lalu tab Ikhtisar dan tab glyph</text>
+<rect x="56.0" y="114.0" width="110.0" height="220.0" rx="0" fill="#f4f5fa" stroke="#d5d8e3" stroke-width="1"/>
+<text x="111.0" y="230.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="17" text-anchor="middle" fill="#1f2330">Filter</text>
+<rect x="166.0" y="114.0" width="414.0" height="220.0" rx="0" fill="#ffffff" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="186.0" y="130.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="228.0" y="130.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="270.0" y="130.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="312.0" y="130.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="354.0" y="130.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="396.0" y="130.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="438.0" y="130.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="480.0" y="130.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="522.0" y="130.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="186.0" y="166.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="228.0" y="166.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="270.0" y="166.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="312.0" y="166.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="354.0" y="166.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="396.0" y="166.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="438.0" y="166.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="480.0" y="166.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="522.0" y="166.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="186.0" y="202.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="228.0" y="202.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="270.0" y="202.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="312.0" y="202.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="354.0" y="202.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="396.0" y="202.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="438.0" y="202.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="480.0" y="202.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="522.0" y="202.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="186.0" y="238.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="228.0" y="238.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="270.0" y="238.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="312.0" y="238.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="354.0" y="238.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="396.0" y="238.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="438.0" y="238.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="480.0" y="238.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="522.0" y="238.0" width="34.0" height="28.0" rx="3" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<rect x="196.0" y="266.0" width="356.0" height="54.0" rx="6" fill="#ffffff" fill-opacity="0.9"/>
+<text x="373.0" y="288.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#0f0e3d" font-weight="700">Ikhtisar: kisi glyph</text>
+<text x="373.0" y="310.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="middle" fill="#555b70">(tab glyph menampilkan editor)</text>
+<rect x="56.0" y="334.0" width="524.0" height="120.0" rx="0" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<text x="318.0" y="384.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#0f0e3d" font-weight="700">Dock bawah</text>
+<text x="318.0" y="408.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="middle" fill="#555b70">Pratinjau · Periksa Font</text>
+<rect x="580.0" y="84.0" width="210.0" height="123.0" rx="0" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<text x="685.0" y="139.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="middle" fill="#0f0e3d" font-weight="700">Info Glyph · Layer</text>
+<text x="685.0" y="161.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="15" text-anchor="middle" fill="#555b70">(Sederhana: Perjalanan Font)</text>
+<rect x="580.0" y="207.0" width="210.0" height="123.0" rx="0" fill="#e6e8f2" stroke="#d5d8e3" stroke-width="1"/>
+<text x="685.0" y="262.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="middle" fill="#0f0e3d" font-weight="700">Transformasi · Warna</text>
+<text x="685.0" y="284.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="15" text-anchor="middle" fill="#555b70">Gambar</text>
+<rect x="580.0" y="330.0" width="210.0" height="123.0" rx="0" fill="#eef0f7" stroke="#d5d8e3" stroke-width="1"/>
+<text x="685.0" y="385.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="middle" fill="#0f0e3d" font-weight="700">Validasi · Kerning</text>
+<text x="685.0" y="407.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="15" text-anchor="middle" fill="#555b70">Riwayat</text>
+<rect x="10.0" y="454.0" width="780.0" height="36.0" rx="0" fill="#dfe2ee" stroke="#d5d8e3" stroke-width="1"/>
+<text x="24.0" y="478.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="17" text-anchor="start" fill="#1f2330">Bilah status: pesan · glyph · jumlah glyph · mode</text>
+</svg>

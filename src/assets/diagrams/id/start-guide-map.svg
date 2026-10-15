@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 275" width="800" height="275">
+<defs><marker id="a-1f2330" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1f2330"/></marker><marker id="a-0f0e3d" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#0f0e3d"/></marker><marker id="a-5b5bf0" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5b5bf0"/></marker><marker id="a-e63946" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#e63946"/></marker><marker id="a-2a9d8f" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#2a9d8f"/></marker><marker id="a-f4a261" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#f4a261"/></marker><marker id="a-9aa0b4" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#9aa0b4"/></marker></defs>
+<text x="20.0" y="30.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="19" text-anchor="start" fill="#0f0e3d" font-weight="700">Jalur utama: dari huruf pertama hingga font jadi</text>
+<rect x="20.0" y="50.0" width="178.0" height="74.0" rx="10" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="34.0" y="78.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="start" fill="#5b5bf0" font-weight="700">Bagian I</text>
+<text x="34.0" y="100.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="600">Memulai</text>
+<rect x="214.0" y="50.0" width="178.0" height="74.0" rx="10" fill="#eef0f7" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="228.0" y="78.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="start" fill="#5b5bf0" font-weight="700">Bagian II</text>
+<text x="228.0" y="100.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="600">Menggambar Glyph</text>
+<rect x="408.0" y="50.0" width="178.0" height="74.0" rx="10" fill="#eef0f7" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="422.0" y="78.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="start" fill="#5b5bf0" font-weight="700">Bagian III</text>
+<text x="422.0" y="100.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="600">Spasi dan Kerning</text>
+<rect x="602.0" y="50.0" width="178.0" height="74.0" rx="10" fill="#eef0f7" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="616.0" y="78.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="start" fill="#5b5bf0" font-weight="700">Bagian IV</text>
+<text x="616.0" y="100.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="600">Fitur OpenType</text>
+<rect x="20.0" y="160.0" width="178.0" height="74.0" rx="10" fill="#eef0f7" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="34.0" y="188.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="start" fill="#5b5bf0" font-weight="700">Bagian V</text>
+<text x="34.0" y="210.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="600">Desain Lanjutan</text>
+<rect x="214.0" y="160.0" width="178.0" height="74.0" rx="10" fill="#eef0f7" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="228.0" y="188.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="start" fill="#5b5bf0" font-weight="700">Bagian VI</text>
+<text x="228.0" y="210.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="600">Menyelesaikan dan</text>
+<text x="228.0" y="228.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="600">Menerbitkan</text>
+<line x1="199.0" y1="87.0" x2="213.0" y2="87.0" stroke="#5b5bf0" stroke-width="1.5" marker-end="url(#a-5b5bf0)"/>
+<line x1="393.0" y1="87.0" x2="407.0" y2="87.0" stroke="#5b5bf0" stroke-width="1.5" marker-end="url(#a-5b5bf0)"/>
+<line x1="587.0" y1="87.0" x2="601.0" y2="87.0" stroke="#5b5bf0" stroke-width="1.5" marker-end="url(#a-5b5bf0)"/>
+<path d="M691.0 124 V138 H109.0 V158" fill="none" stroke="#5b5bf0" stroke-width="1.5" marker-end="url(#a-5b5bf0)"/>
+<line x1="199.0" y1="197.0" x2="213.0" y2="197.0" stroke="#5b5bf0" stroke-width="1.5" marker-end="url(#a-5b5bf0)"/>
+<text x="420.0" y="262.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="17" text-anchor="start" fill="#555b70" font-weight="600">Buka saat Anda membutuhkannya</text>
+<rect x="420.0" y="160.0" width="178.0" height="74.0" rx="10" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="434.0" y="188.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="start" fill="#555b70" font-weight="700">Bagian VII</text>
+<text x="434.0" y="210.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="600">Untuk Pengguna</text>
+<text x="434.0" y="228.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="600">Mahir</text>
+<rect x="614.0" y="160.0" width="178.0" height="74.0" rx="10" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="628.0" y="188.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="start" fill="#555b70" font-weight="700">Glosarium, shortcut,</text>
+<text x="628.0" y="210.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="600">Referensi</text>
+<text x="628.0" y="228.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="600">FAQ</text>
+</svg>

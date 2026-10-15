@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="800" height="320" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif">
+<path d="M70 230C90 120 160 90 215 120C270 150 300 230 360 190" fill="none" stroke="#1f2330" stroke-width="3" />
+<line x1="70.0" y1="230.0" x2="90.0" y2="120.0" stroke="#9aa0b4" stroke-width="1.5"/><line x1="215.0" y1="120.0" x2="160.0" y2="90.0" stroke="#9aa0b4" stroke-width="1.5"/><line x1="215.0" y1="120.0" x2="270.0" y2="150.0" stroke="#9aa0b4" stroke-width="1.5"/><line x1="360.0" y1="190.0" x2="300.0" y2="230.0" stroke="#9aa0b4" stroke-width="1.5"/>
+<circle cx="90.0" cy="120.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="160.0" cy="90.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="270.0" cy="150.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="300.0" cy="230.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<rect x="64.5" y="224.5" width="11.0" height="11.0" fill="#ffffff" stroke="#e63946" stroke-width="2"/>
+<circle cx="215.0" cy="120.0" r="5.5" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<rect x="354.5" y="184.5" width="11.0" height="11.0" fill="#ffffff" stroke="#e63946" stroke-width="2"/>
+<text x="70.0" y="262.0" font-size="18" text-anchor="middle" fill="#e63946" font-weight="normal">end</text>
+<text x="360.0" y="222.0" font-size="18" text-anchor="middle" fill="#e63946" font-weight="normal">end</text>
+<text x="215.0" y="300.0" font-size="20" text-anchor="middle" fill="#1f2330" font-weight="600">Open contour: two loose ends</text>
+<path d="M600 75C663.5145 75 715 115.293 715 165C715 214.707 663.5145 255 600 255C536.4855 255 485 214.707 485 165C485 115.293 536.4855 75 600 75Z" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="3" />
+<circle cx="600.0" cy="75.0" r="5.5" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<circle cx="715.0" cy="165.0" r="5.5" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<circle cx="600.0" cy="255.0" r="5.5" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<circle cx="485.0" cy="165.0" r="5.5" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<text x="600.0" y="300.0" font-size="20" text-anchor="middle" fill="#1f2330" font-weight="600">Closed contour: no ends, it is filled</text>
+</svg>

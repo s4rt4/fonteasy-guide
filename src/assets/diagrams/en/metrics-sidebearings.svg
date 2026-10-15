@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 476" width="800" height="476">
+<line x1="40" y1="330.0" x2="760" y2="330.0" stroke="#9aa0b4" stroke-width="1"/>
+<line x1="40" y1="149.5" x2="760" y2="149.5" stroke="#9aa0b4" stroke-width="1" stroke-dasharray="2 4"/>
+<rect x="100" y="86.8" width="230.3" height="319.2" fill="#eef0f7"/>
+<rect x="100" y="86.8" width="12.9" height="319.2" fill="#c9c9ff"/>
+<rect x="318.9" y="86.8" width="11.4" height="319.2" fill="#c9c9ff"/>
+<line x1="100.0" y1="78.8" x2="100.0" y2="440.0" stroke="#9aa0b4" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="330.3" y1="78.8" x2="330.3" y2="440.0" stroke="#9aa0b4" stroke-width="1.5" stroke-dasharray="5 4"/>
+<path d="M115.2 330V316.3L143.3 311Q143.7 296.6 143.9 279.8Q144.1 263.1 144.1 250.2V232Q144.1 216.4 143.9 206.1Q143.7 195.9 142.9 184.5L112.9 181V167.7L166.1 144.6L171.8 148.4L174.9 178.8Q188.9 163.6 207.2 154.1Q225.4 144.6 242.9 144.6Q267.6 144.6 279.6 161.1Q291.5 177.6 291.5 214.9V250.2Q291.5 263.1 291.7 279.8Q291.9 296.6 292.3 311L318.9 316.3V330H230.7V316.3L258.8 311Q259.2 296.9 259.4 280Q259.6 263.1 259.6 250.2V217.9Q259.6 191.7 252.2 181.8Q244.8 171.9 228.1 171.9Q215.1 171.9 203 177.2Q190.8 182.6 176.4 194.7V250.2Q176.4 262.7 176.6 279.6Q176.8 296.6 177.1 311L203.4 316.3V330Z" fill="#1f2330"/>
+<text x="102.0" y="68.8" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="19" fill="#5b5bf0" text-anchor="middle" font-weight="bold">LSB 34</text>
+<text x="328.3" y="68.8" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="19" fill="#5b5bf0" text-anchor="middle" font-weight="bold">RSB 30</text>
+<line x1="100.0" y1="428.0" x2="330.3" y2="428.0" stroke="#0f0e3d" stroke-width="2"/>
+<path d="M330.3 428.0 l-7 -4.4 v8.8 z" fill="#0f0e3d"/>
+<path d="M100.0 428.0 l7 -4.4 v8.8 z" fill="#0f0e3d"/>
+<text x="215.1" y="458.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="19" fill="#0f0e3d" text-anchor="middle" font-weight="bold">Advance width 606</text>
+<rect x="450" y="86.8" width="208.6" height="319.2" fill="#eef0f7"/>
+<rect x="450" y="86.8" width="17.1" height="319.2" fill="#c9c9ff"/>
+<rect x="641.5" y="86.8" width="17.1" height="319.2" fill="#c9c9ff"/>
+<line x1="450.0" y1="78.8" x2="450.0" y2="440.0" stroke="#9aa0b4" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="658.6" y1="78.8" x2="658.6" y2="440.0" stroke="#9aa0b4" stroke-width="1.5" stroke-dasharray="5 4"/>
+<path d="M554.1 334.9Q532.1 334.9 512.1 324.5Q492.2 314 479.6 293Q467.1 271.9 467.1 240.7Q467.1 209.2 479.6 187.7Q492.2 166.2 512.1 155.4Q532.1 144.6 554.1 144.6Q576.2 144.6 596.1 155.4Q616.1 166.2 628.8 187.7Q641.5 209.2 641.5 240.7Q641.5 271.9 628.8 293Q616.1 314 596.1 324.5Q576.2 334.9 554.1 334.9ZM554.1 317.8Q578.8 317.8 592.1 298.3Q605.4 278.7 605.4 240.7Q605.4 202.3 592.1 182.2Q578.8 162 554.1 162Q529.4 162 516.3 182.2Q503.2 202.3 503.2 240.7Q503.2 278.7 516.3 298.3Q529.4 317.8 554.1 317.8Z" fill="#1f2330"/>
+<text x="452.0" y="68.8" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="19" fill="#5b5bf0" text-anchor="middle" font-weight="bold">LSB 45</text>
+<text x="656.6" y="68.8" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="19" fill="#5b5bf0" text-anchor="middle" font-weight="bold">RSB 45</text>
+<line x1="450.0" y1="428.0" x2="658.6" y2="428.0" stroke="#0f0e3d" stroke-width="2"/>
+<path d="M658.6 428.0 l-7 -4.4 v8.8 z" fill="#0f0e3d"/>
+<path d="M450.0 428.0 l7 -4.4 v8.8 z" fill="#0f0e3d"/>
+<text x="554.3" y="458.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="19" fill="#0f0e3d" text-anchor="middle" font-weight="bold">Advance width 549</text>
+<text x="760.0" y="322.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" fill="#9aa0b4" text-anchor="end" font-weight="normal">baseline</text>
+<text x="760.0" y="141.5" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" fill="#9aa0b4" text-anchor="end" font-weight="normal">x-height</text>
+</svg>

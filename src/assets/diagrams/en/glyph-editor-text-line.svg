@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif">
+<path d="M129.2 200H182.6V191.7L166.7 188.5C166.5 177 166.2 161.8 166.2 151.7V118.1C178 108.5 186.9 104.3 197.5 104.3C211.1 104.3 216.6 111 216.6 132.1V151.7C216.6 162.3 216.4 177.2 216.1 188.5L199.1 191.7V200H252.5V191.7L236.4 188.5C236.2 177 235.9 162.3 235.9 151.7V130.3C235.9 100.2 226.3 87.8 206.5 87.8C192.2 87.8 176.6 96.3 165.3 108.5L163.5 90.1L160 87.8L127.8 101.8V109.8L146 111.9C146.4 121.1 146.7 128 146.7 140.7V151.7C146.7 162.1 146.4 177 146.2 188.5L129.2 191.7Z" fill="#1f2330" stroke="none" stroke-width="0" fill-opacity="0.7"/>
+<path d="M268.6 200H321.9V191.7L306.1 188.5C305.8 177 305.6 161.8 305.6 151.7V118.1C317.3 108.5 326.3 104.3 336.9 104.3C350.5 104.3 356 111 356 132.1V151.7C356 162.3 355.8 177.2 355.5 188.5L338.5 191.7V200H391.9V191.7L375.8 188.5C375.5 177 375.3 162.3 375.3 151.7V130.3C375.3 100.2 365.6 87.8 345.9 87.8C331.6 87.8 316 96.3 304.7 108.5L302.9 90.1L299.4 87.8L267.2 101.8V109.8L285.4 111.9C285.8 121.1 286.1 128 286.1 140.7V151.7C286.1 162.1 285.8 177 285.6 188.5L268.6 191.7Z" fill="#1f2330" stroke="none" stroke-width="0" fill-opacity="0.7"/>
+<rect x="398.76" y="40" width="126.27" height="205" fill="#eef0f7"/>
+<path d="M461.8 203C488.5 203 514.7 183.9 514.7 145.9C514.7 107.8 488.2 87.8 461.8 87.8C435.1 87.8 409.1 107.8 409.1 145.9C409.1 183.9 434.9 203 461.8 203ZM461.8 192.6C441.8 192.6 431 176.8 431 145.9C431 114.9 441.8 98.3 461.8 98.3C481.6 98.3 492.8 114.9 492.8 145.9C492.8 176.8 481.6 192.6 461.8 192.6Z" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="2" />
+<line x1="488.5" y1="203.0" x2="461.8" y2="203.0" stroke="#9aa0b4" stroke-width="1.3"/>
+<line x1="514.7" y1="183.9" x2="514.7" y2="145.9" stroke="#9aa0b4" stroke-width="1.3"/>
+<line x1="514.7" y1="107.8" x2="514.7" y2="145.9" stroke="#9aa0b4" stroke-width="1.3"/>
+<line x1="488.2" y1="87.8" x2="461.8" y2="87.8" stroke="#9aa0b4" stroke-width="1.3"/>
+<line x1="435.1" y1="87.8" x2="461.8" y2="87.8" stroke="#9aa0b4" stroke-width="1.3"/>
+<line x1="409.1" y1="107.8" x2="409.1" y2="145.9" stroke="#9aa0b4" stroke-width="1.3"/>
+<line x1="409.1" y1="183.9" x2="409.1" y2="145.9" stroke="#9aa0b4" stroke-width="1.3"/>
+<line x1="434.9" y1="203.0" x2="461.8" y2="203.0" stroke="#9aa0b4" stroke-width="1.3"/>
+<circle cx="488.5" cy="203.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="514.7" cy="183.9" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="514.7" cy="107.8" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="488.2" cy="87.8" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="435.1" cy="87.8" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="409.1" cy="107.8" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="409.1" cy="183.9" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="434.9" cy="203.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="461.8" cy="203.0" r="4" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<circle cx="514.7" cy="145.9" r="4" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<circle cx="461.8" cy="87.8" r="4" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<circle cx="409.1" cy="145.9" r="4" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<line x1="441.8" y1="192.6" x2="461.8" y2="192.6" stroke="#9aa0b4" stroke-width="1.3"/>
+<line x1="431.0" y1="176.8" x2="431.0" y2="145.9" stroke="#9aa0b4" stroke-width="1.3"/>
+<line x1="431.0" y1="114.9" x2="431.0" y2="145.9" stroke="#9aa0b4" stroke-width="1.3"/>
+<line x1="441.8" y1="98.3" x2="461.8" y2="98.3" stroke="#9aa0b4" stroke-width="1.3"/>
+<line x1="481.6" y1="98.3" x2="461.8" y2="98.3" stroke="#9aa0b4" stroke-width="1.3"/>
+<line x1="492.8" y1="114.9" x2="492.8" y2="145.9" stroke="#9aa0b4" stroke-width="1.3"/>
+<line x1="492.8" y1="176.8" x2="492.8" y2="145.9" stroke="#9aa0b4" stroke-width="1.3"/>
+<line x1="481.6" y1="192.6" x2="461.8" y2="192.6" stroke="#9aa0b4" stroke-width="1.3"/>
+<circle cx="441.8" cy="192.6" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="431.0" cy="176.8" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="431.0" cy="114.9" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="441.8" cy="98.3" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="481.6" cy="98.3" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="492.8" cy="114.9" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="492.8" cy="176.8" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="481.6" cy="192.6" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="461.8" cy="192.6" r="4" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<circle cx="431.0" cy="145.9" r="4" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<circle cx="461.8" cy="98.3" r="4" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<circle cx="492.8" cy="145.9" r="4" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<path d="M534.2 200H587.6V191.7L571.7 188.5C571.5 177 571.3 161.8 571.3 151.7V118.1C583 108.5 592 104.3 602.5 104.3C616.1 104.3 621.6 111 621.6 132.1V151.7C621.6 162.3 621.4 177.2 621.2 188.5L604.1 191.7V200H657.5V191.7L641.4 188.5C641.2 177 640.9 162.3 640.9 151.7V130.3C640.9 100.2 631.3 87.8 611.5 87.8C597.2 87.8 581.6 96.3 570.3 108.5L568.5 90.1L565 87.8L532.9 101.8V109.8L551 111.9C551.5 121.1 551.7 128 551.7 140.7V151.7C551.7 162.1 551.5 177 551.2 188.5L534.2 191.7Z" fill="#1f2330" stroke="none" stroke-width="0" fill-opacity="0.7"/>
+<path d="M673.6 200H727V191.7L711.1 188.5C710.9 177 710.6 161.8 710.6 151.7V118.1C722.4 108.5 731.3 104.3 741.9 104.3C755.5 104.3 761 111 761 132.1V151.7C761 162.3 760.8 177.2 760.5 188.5L743.5 191.7V200H796.9V191.7L780.8 188.5C780.6 177 780.3 162.3 780.3 151.7V130.3C780.3 100.2 770.7 87.8 750.9 87.8C736.6 87.8 721 96.3 709.7 108.5L707.9 90.1L704.4 87.8L672.2 101.8V109.8L690.4 111.9C690.9 121.1 691.1 128 691.1 140.7V151.7C691.1 162.1 690.9 177 690.6 188.5L673.6 191.7Z" fill="#1f2330" stroke="none" stroke-width="0" fill-opacity="0.7"/>
+<line x1="60.0" y1="200.0" x2="740.0" y2="200.0" stroke="#9aa0b4" stroke-width="1.2"/>
+<text x="461.9" y="280.0" font-size="20" text-anchor="middle" fill="#5b5bf0" font-weight="700">the glyph you edit</text>
+<text x="259.4" y="280.0" font-size="18" text-anchor="middle" fill="#4a5068" font-weight="normal">neighbours</text>
+<text x="664.4" y="280.0" font-size="18" text-anchor="middle" fill="#4a5068" font-weight="normal">neighbours</text>
+</svg>

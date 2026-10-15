@@ -1,0 +1,52 @@
+{
+  "parts": [
+    {
+      "dir": "start",
+      "en": "Part I · Getting Started",
+      "id": "Bagian I · Memulai",
+      "chapters": ["welcome", "install", "type-basics", "interface", "first-font"]
+    },
+    {
+      "dir": "drawing",
+      "en": "Part II · Drawing Glyphs",
+      "id": "Bagian II · Menggambar Glyph",
+      "chapters": ["outlines", "glyph-editor", "drawing-tools", "glyph-set", "components", "import-trace", "handwriting", "problems"]
+    },
+    {
+      "dir": "spacing",
+      "en": "Part III · Spacing and Kerning",
+      "id": "Bagian III · Spasi dan Kerning",
+      "chapters": ["metrics", "kerning"]
+    },
+    {
+      "dir": "opentype",
+      "en": "Part IV · OpenType Features",
+      "id": "Bagian IV · Fitur OpenType",
+      "chapters": ["features", "lookups"]
+    },
+    {
+      "dir": "advanced",
+      "en": "Part V · Advanced Design",
+      "id": "Bagian V · Desain Lanjutan",
+      "chapters": ["variable", "color", "drawing-effects", "automation"]
+    },
+    {
+      "dir": "production",
+      "en": "Part VI · Finishing and Publishing",
+      "id": "Bagian VI · Menyelesaikan dan Menerbitkan",
+      "chapters": ["font-info", "quality", "export", "testing-publishing"]
+    },
+    {
+      "dir": "power",
+      "en": "Part VII · For Power Users",
+      "id": "Bagian VII · Untuk Pengguna Mahir",
+      "chapters": ["scripting", "preferences"]
+    },
+    {
+      "dir": "reference",
+      "en": "Reference",
+      "id": "Referensi",
+      "chapters": ["glossary", "shortcuts", "faq"]
+    }
+  ]
+}

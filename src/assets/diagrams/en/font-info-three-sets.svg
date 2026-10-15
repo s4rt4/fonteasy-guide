@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 580" width="800" height="580">
+<text x="400" y="30" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#0f0e3d" font-weight="600">A new FontEasy font, 1000 units per em, Typo/hhea/Windows fields left empty</text>
+<line x1="40" y1="345.0" x2="760" y2="345.0" stroke="#0f0e3d" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="30" y="337.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#0f0e3d" font-weight="normal">baseline</text>
+<rect x="120.0" y="120.0" width="160" height="225.0" rx="0" fill="#c9c9ff" stroke="#0f0e3d" stroke-width="1"/>
+<text x="200" y="238.5" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">ascender 750</text>
+<rect x="120.0" y="345.0" width="160" height="75.0" rx="0" fill="#f9d3b4" stroke="#0f0e3d" stroke-width="1"/>
+<text x="200" y="388.5" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">descender 250</text>
+<rect x="120.0" y="420.0" width="160" height="60.0" rx="0" fill="#bfe3de" stroke="#0f0e3d" stroke-width="1"/>
+<text x="200" y="456.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">line gap 200</text>
+<text x="200" y="510.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="700">Typo</text>
+<text x="200" y="534.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">newer apps</text>
+<text x="200" y="558.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#2a9d8f" font-weight="600">1200 in total</text>
+<rect x="350.0" y="60.0" width="160" height="285.0" rx="0" fill="#c9c9ff" stroke="#0f0e3d" stroke-width="1"/>
+<text x="430" y="208.5" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">ascender 950</text>
+<rect x="350.0" y="345.0" width="160" height="75.0" rx="0" fill="#f9d3b4" stroke="#0f0e3d" stroke-width="1"/>
+<text x="430" y="388.5" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">descender 250</text>
+<text x="430" y="450.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="700">hhea</text>
+<text x="430" y="474.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">macOS</text>
+<text x="430" y="498.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#2a9d8f" font-weight="600">1200 in total</text>
+<rect x="580.0" y="60.0" width="160" height="285.0" rx="0" fill="#c9c9ff" stroke="#0f0e3d" stroke-width="1"/>
+<text x="660" y="208.5" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">ascender 950</text>
+<rect x="580.0" y="345.0" width="160" height="75.0" rx="0" fill="#f9d3b4" stroke="#0f0e3d" stroke-width="1"/>
+<text x="660" y="388.5" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">descender 250</text>
+<text x="660" y="450.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="700">Windows (win)</text>
+<text x="660" y="474.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">Windows</text>
+<text x="660" y="498.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#2a9d8f" font-weight="600">1200 in total</text>
+</svg>

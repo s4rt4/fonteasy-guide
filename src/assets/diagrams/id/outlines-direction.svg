@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif">
+<path d="M212.5 366.8C272.8 366.8 332.1 323.6 332.1 237.8C332.1 151.5 272.3 106.2 212.5 106.2C152.2 106.2 93.4 151.5 93.4 237.8C93.4 323.6 151.6 366.8 212.5 366.8ZM212.5 343.4C167.2 343.4 142.8 307.5 142.8 237.8C142.8 167.6 167.2 130.2 212.5 130.2C257.2 130.2 282.7 167.6 282.7 237.8C282.7 307.5 257.2 343.4 212.5 343.4Z" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="2" />
+<polygon points="302.1,327.5 292.1,346.0 283.3,336.8" fill="#0f0e3d"/>
+<polygon points="287.6,132.6 306.3,142.1 297.3,151.2" fill="#0f0e3d"/>
+<polygon points="123.2,146.7 132.9,128.1 141.9,137.1" fill="#0f0e3d"/>
+<polygon points="137.3,341.4 118.5,332.1 127.4,322.9" fill="#0f0e3d"/>
+<polygon points="155.1,308.4 171.5,321.5 160.9,328.6" fill="#2a9d8f"/>
+<polygon points="166.1,149.3 160.6,169.5 149.9,162.6" fill="#2a9d8f"/>
+<polygon points="269.9,166.0 253.5,152.8 264.2,145.8" fill="#2a9d8f"/>
+<polygon points="258.7,325.0 264.7,304.8 275.3,312.0" fill="#2a9d8f"/>
+<text x="212.7" y="40.0" font-size="22" text-anchor="middle" fill="#2a9d8f" font-weight="700">Benar</text>
+<text x="212.7" y="410.0" font-size="19" text-anchor="middle" fill="#1f2330" font-weight="normal">Luar: berlawanan jarum jam</text>
+<text x="212.7" y="434.0" font-size="19" text-anchor="middle" fill="#1f2330" font-weight="normal">Dalam: searah jarum jam, berlubang</text>
+<path d="M592.48 366.76C652.8 366.76 712.08 323.6 712.08 237.8C712.08 151.48 652.28 106.24 592.48 106.24C532.16 106.24 473.4 151.48 473.4 237.8C473.4 323.6 531.64 366.76 592.48 366.76Z" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="2" />
+<path d="M592.48 343.36C547.24 343.36 522.8 307.48 522.8 237.8C522.8 167.6 547.24 130.16 592.48 130.16C637.2 130.16 662.68 167.6 662.68 237.8C662.68 307.48 637.2 343.36 592.48 343.36Z" fill="none" stroke="#e63946" stroke-width="2" stroke-dasharray="7 5"/>
+<polygon points="682.1,327.5 672.1,346.0 663.3,336.8" fill="#0f0e3d"/>
+<polygon points="667.6,132.6 686.3,142.1 677.3,151.2" fill="#0f0e3d"/>
+<polygon points="503.2,146.7 512.9,128.1 521.9,137.1" fill="#0f0e3d"/>
+<polygon points="517.3,341.4 498.5,332.1 507.4,322.9" fill="#0f0e3d"/>
+<polygon points="546.2,325.0 529.8,311.9 540.5,304.8" fill="#e63946"/>
+<polygon points="535.2,166.0 540.7,145.8 551.5,152.7" fill="#e63946"/>
+<polygon points="638.8,149.3 655.2,162.5 644.5,169.5" fill="#e63946"/>
+<polygon points="650.0,308.4 644.0,328.6 633.4,321.4" fill="#e63946"/>
+<text x="592.7" y="40.0" font-size="22" text-anchor="middle" fill="#e63946" font-weight="700">Salah</text>
+<text x="592.7" y="410.0" font-size="19" text-anchor="middle" fill="#1f2330" font-weight="normal">Keduanya berlawanan jarum jam:</text>
+<text x="592.7" y="434.0" font-size="19" text-anchor="middle" fill="#1f2330" font-weight="normal">lubangnya tertutup</text>
+</svg>

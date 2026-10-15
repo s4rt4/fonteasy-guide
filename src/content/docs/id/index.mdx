@@ -1,0 +1,54 @@
+---
+title: Panduan FontEasy
+description: Panduan lengkap membuat font dengan FontEasy, untuk Anda yang belum pernah membuat font.
+template: splash
+hero:
+  title: Buat font Anda sendiri dengan FontEasy
+  tagline: Panduan lengkap untuk pemula, dari huruf pertama hingga font jadi yang bisa dipasang, dibagikan, dan dijual. Setiap istilah dijelaskan, setiap langkah diperlihatkan.
+  image:
+    file: ../../../assets/screens/id/g-edit.png
+  actions:
+    - text: Mulai membaca
+      link: /fonteasy/id/start/welcome/
+      icon: right-arrow
+    - text: Unduh PDF
+      link: https://github.com/s4rt4/fonteasy/releases/download/v1.5.0/FontEasy-Panduan-ID.pdf
+      icon: download
+      variant: secondary
+    - text: Unduh FontEasy
+      link: https://github.com/s4rt4/fonteasy/releases/latest
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+## Mulai dari mana?
+
+<CardGrid>
+	<Card title="Baru mengenal font?" icon="open-book">
+		Baca [Anatomi huruf](/fonteasy/id/start/type-basics/) lebih dulu: baseline, x-height, glyph, dan istilah lain yang akan Anda temui di mana-mana.
+	</Card>
+	<Card title="Ingin hasil hari ini?" icon="rocket">
+		Ikuti [Font pertama Anda](/fonteasy/id/start/first-font/): tutorial langsung praktik dari berkas kosong sampai font terpasang di PC Anda.
+	</Card>
+	<Card title="Mencari sebuah istilah?" icon="document">
+		[Glosarium](/fonteasy/id/reference/glossary/) menjelaskan lebih dari 120 istilah font dengan bahasa sederhana. Atau tekan <kbd>/</kbd> untuk mencari.
+	</Card>
+	<Card title="Lebih suka versi cetak?" icon="download">
+		Seluruh panduan ini juga tersedia sebagai [buku PDF](https://github.com/s4rt4/fonteasy/releases/download/v1.5.0/FontEasy-Panduan-ID.pdf) yang siap dicetak.
+	</Card>
+</CardGrid>
+
+## Bagian-bagian panduan
+
+<CardGrid>
+	<LinkCard title="I · Memulai" description="Pasang FontEasy, pelajari anatomi huruf dan antarmuka, buat font pertama Anda." href="/fonteasy/id/start/welcome/" />
+	<LinkCard title="II · Menggambar Glyph" description="Titik dan kurva, semua alat gambar, komponen, impor gambar, font tulisan tangan." href="/fonteasy/id/drawing/outlines/" />
+	<LinkCard title="III · Spasi dan Kerning" description="Beri setiap huruf ruang yang pas, lalu rapikan pasangan huruf yang janggal." href="/fonteasy/id/spacing/metrics/" />
+	<LinkCard title="IV · Fitur OpenType" description="Ligatur, small caps, alternatif, dan editor lookup visual." href="/fonteasy/id/opentype/features/" />
+	<LinkCard title="V · Desain Lanjutan" description="Font variabel, font warna, efek gambar, dan otomatisasi." href="/fonteasy/id/advanced/variable/" />
+	<LinkCard title="VI · Menyelesaikan dan Menerbitkan" description="Info font, pemeriksaan kualitas, ekspor, pengujian, lisensi, dan penerbitan." href="/fonteasy/id/production/font-info/" />
+	<LinkCard title="VII · Untuk Pengguna Mahir" description="Scripting Python, plugin, dan preferensi." href="/fonteasy/id/power/scripting/" />
+	<LinkCard title="Referensi" description="Glosarium, pintasan keyboard, dan tanya jawab." href="/fonteasy/id/reference/glossary/" />
+</CardGrid>

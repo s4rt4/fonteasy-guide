@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif">
+<text x="200.0" y="36.0" font-size="22" text-anchor="middle" fill="#1f2330" font-weight="700">Kurva kubik</text>
+<path d="M60 290C90 100 300 80 340 280" fill="none" stroke="#1f2330" stroke-width="3" />
+<line x1="60.0" y1="290.0" x2="90.0" y2="100.0" stroke="#9aa0b4" stroke-width="1.5"/><line x1="340.0" y1="280.0" x2="300.0" y2="80.0" stroke="#9aa0b4" stroke-width="1.5"/>
+<circle cx="90.0" cy="100.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="300.0" cy="80.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<rect x="54.5" y="284.5" width="11.0" height="11.0" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<rect x="334.5" y="274.5" width="11.0" height="11.0" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<text x="102.0" y="105.0" font-size="18" text-anchor="start" fill="#5b5bf0" font-weight="normal">handle</text>
+<text x="288.0" y="70.0" font-size="18" text-anchor="end" fill="#5b5bf0" font-weight="normal">handle</text>
+<text x="74.0" y="296.0" font-size="18" text-anchor="start" fill="#1f2330" font-weight="normal">node</text>
+<text x="326.0" y="286.0" font-size="18" text-anchor="end" fill="#1f2330" font-weight="normal">node</text>
+<text x="200.0" y="335.0" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">dua handle per segmen</text>
+<text x="200.0" y="358.0" font-size="18" text-anchor="middle" fill="#4a5068" font-weight="normal">PostScript/CFF (.otf)</text>
+<text x="600.0" y="36.0" font-size="22" text-anchor="middle" fill="#1f2330" font-weight="700">Kurva kuadratik</text>
+<path d="M460 290Q600 70 740 290" fill="none" stroke="#1f2330" stroke-width="3" />
+<line x1="460.0" y1="290.0" x2="600.0" y2="70.0" stroke="#9aa0b4" stroke-width="1.5"/><line x1="600.0" y1="70.0" x2="740.0" y2="290.0" stroke="#9aa0b4" stroke-width="1.5"/>
+<circle cx="600.0" cy="70.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<rect x="454.5" y="284.5" width="11.0" height="11.0" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<rect x="734.5" y="284.5" width="11.0" height="11.0" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<text x="612.0" y="74.0" font-size="18" text-anchor="start" fill="#5b5bf0" font-weight="normal">handle</text>
+<text x="474.0" y="296.0" font-size="18" text-anchor="start" fill="#1f2330" font-weight="normal">node</text>
+<text x="726.0" y="296.0" font-size="18" text-anchor="end" fill="#1f2330" font-weight="normal">node</text>
+<text x="600.0" y="335.0" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">satu titik off-curve bersama</text>
+<text x="600.0" y="358.0" font-size="18" text-anchor="middle" fill="#4a5068" font-weight="normal">TrueType (.ttf)</text>
+</svg>

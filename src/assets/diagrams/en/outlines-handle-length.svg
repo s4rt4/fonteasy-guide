@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="800" height="340" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif">
+<line x1="43.0" y1="250.0" x2="223.0" y2="250.0" stroke="#9aa0b4" stroke-width="1" stroke-dasharray="5 5"/><line x1="223.0" y1="250.0" x2="223.0" y2="70.0" stroke="#9aa0b4" stroke-width="1" stroke-dasharray="5 5"/>
+<path d="M43 250C82.6 250 223 109.6 223 70" fill="none" stroke="#1f2330" stroke-width="3" />
+<line x1="43.0" y1="250.0" x2="82.6" y2="250.0" stroke="#5b5bf0" stroke-width="2"/><line x1="223.0" y1="70.0" x2="223.0" y2="109.6" stroke="#5b5bf0" stroke-width="2"/>
+<circle cx="82.6" cy="250.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="223.0" cy="109.6" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<rect x="37.5" y="244.5" width="11.0" height="11.0" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<rect x="217.5" y="64.5" width="11.0" height="11.0" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<text x="133.0" y="300.0" font-size="20" text-anchor="middle" fill="#1f2330" font-weight="600">Short handles</text>
+<text x="133.0" y="324.0" font-size="18" text-anchor="middle" fill="#4a5068" font-weight="normal">a pointy, tight curve</text>
+<line x1="310.0" y1="250.0" x2="490.0" y2="250.0" stroke="#9aa0b4" stroke-width="1" stroke-dasharray="5 5"/><line x1="490.0" y1="250.0" x2="490.0" y2="70.0" stroke="#9aa0b4" stroke-width="1" stroke-dasharray="5 5"/>
+<path d="M310 250C409.0 250 490 169.0 490 70" fill="none" stroke="#1f2330" stroke-width="3" />
+<line x1="310.0" y1="250.0" x2="409.0" y2="250.0" stroke="#5b5bf0" stroke-width="2"/><line x1="490.0" y1="70.0" x2="490.0" y2="169.0" stroke="#5b5bf0" stroke-width="2"/>
+<circle cx="409.0" cy="250.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="490.0" cy="169.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<rect x="304.5" y="244.5" width="11.0" height="11.0" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<rect x="484.5" y="64.5" width="11.0" height="11.0" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<text x="400.0" y="300.0" font-size="20" text-anchor="middle" fill="#1f2330" font-weight="600">Balanced handles</text>
+<text x="400.0" y="324.0" font-size="18" text-anchor="middle" fill="#4a5068" font-weight="normal">a round, even curve</text>
+<line x1="577.0" y1="250.0" x2="757.0" y2="250.0" stroke="#9aa0b4" stroke-width="1" stroke-dasharray="5 5"/><line x1="757.0" y1="250.0" x2="757.0" y2="70.0" stroke="#9aa0b4" stroke-width="1" stroke-dasharray="5 5"/>
+<path d="M577 250C748.0 250 757 241.0 757 70" fill="none" stroke="#1f2330" stroke-width="3" />
+<line x1="577.0" y1="250.0" x2="748.0" y2="250.0" stroke="#5b5bf0" stroke-width="2"/><line x1="757.0" y1="70.0" x2="757.0" y2="241.0" stroke="#5b5bf0" stroke-width="2"/>
+<circle cx="748.0" cy="250.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<circle cx="757.0" cy="241.0" r="4" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.6"/>
+<rect x="571.5" y="244.5" width="11.0" height="11.0" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<rect x="751.5" y="64.5" width="11.0" height="11.0" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<text x="667.0" y="300.0" font-size="20" text-anchor="middle" fill="#1f2330" font-weight="600">Long handles</text>
+<text x="667.0" y="324.0" font-size="18" text-anchor="middle" fill="#4a5068" font-weight="normal">a boxy, square curve</text>
+</svg>

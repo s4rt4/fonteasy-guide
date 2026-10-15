@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="800" height="360">
+<text x="200.0" y="36.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#e63946" font-weight="bold">Missing extreme point</text>
+<text x="600.0" y="36.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#2a9d8f" font-weight="bold">After Fix</text>
+<path d="M 277.8 102.2 C 234.8 59.3 165.2 59.3 122.2 102.2 C 79.3 145.2 79.3 214.8 122.2 257.8 C 165.2 300.7 234.8 300.7 277.8 257.8 C 320.7 214.8 320.7 145.2 277.8 102.2 Z" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="2"/>
+<line x1="277.8" y1="102.2" x2="234.8" y2="59.3" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="122.2" y1="102.2" x2="165.2" y2="59.3" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="234.8" cy="59.3" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="165.2" cy="59.3" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="122.2" y1="102.2" x2="79.3" y2="145.2" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="122.2" y1="257.8" x2="79.3" y2="214.8" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="79.3" cy="145.2" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="79.3" cy="214.8" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="122.2" y1="257.8" x2="165.2" y2="300.7" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="277.8" y1="257.8" x2="234.8" y2="300.7" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="165.2" cy="300.7" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="234.8" cy="300.7" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="277.8" y1="257.8" x2="320.7" y2="214.8" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="277.8" y1="102.2" x2="320.7" y2="145.2" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="320.7" cy="214.8" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="320.7" cy="145.2" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<rect x="273.3" y="97.7" width="9.0" height="9.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="117.7" y="97.7" width="9.0" height="9.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="117.7" y="253.3" width="9.0" height="9.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="273.3" y="253.3" width="9.0" height="9.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<circle cx="200.0" cy="70.0" r="11" fill="none" stroke="#f4a261" stroke-width="2.5"/><circle cx="200.0" cy="70.0" r="3" fill="#f4a261" stroke="none" stroke-width="1.5"/>
+<circle cx="200.0" cy="290.0" r="11" fill="none" stroke="#f4a261" stroke-width="2.5"/><circle cx="200.0" cy="290.0" r="3" fill="#f4a261" stroke="none" stroke-width="1.5"/>
+<circle cx="90.0" cy="180.0" r="11" fill="none" stroke="#f4a261" stroke-width="2.5"/><circle cx="90.0" cy="180.0" r="3" fill="#f4a261" stroke="none" stroke-width="1.5"/>
+<circle cx="310.0" cy="180.0" r="11" fill="none" stroke="#f4a261" stroke-width="2.5"/><circle cx="310.0" cy="180.0" r="3" fill="#f4a261" stroke="none" stroke-width="1.5"/>
+<path d="M 710.0 180.0 C 710.0 150.8 698.4 122.8 677.8 102.2 C 657.2 81.6 629.2 70.0 600.0 70.0 C 570.8 70.0 542.8 81.6 522.2 102.2 C 501.6 122.8 490.0 150.8 490.0 180.0 C 490.0 209.2 501.6 237.2 522.2 257.8 C 542.8 278.4 570.8 290.0 600.0 290.0 C 629.2 290.0 657.2 278.4 677.8 257.8 C 698.4 237.2 710.0 209.2 710.0 180.0 Z" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="2"/>
+<line x1="710.0" y1="180.0" x2="710.0" y2="150.8" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="677.8" y1="102.2" x2="698.4" y2="122.8" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="710.0" cy="150.8" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="698.4" cy="122.8" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="677.8" y1="102.2" x2="657.2" y2="81.6" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="600.0" y1="70.0" x2="629.2" y2="70.0" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="657.2" cy="81.6" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="629.2" cy="70.0" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="600.0" y1="70.0" x2="570.8" y2="70.0" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="522.2" y1="102.2" x2="542.8" y2="81.6" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="570.8" cy="70.0" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="542.8" cy="81.6" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="522.2" y1="102.2" x2="501.6" y2="122.8" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="490.0" y1="180.0" x2="490.0" y2="150.8" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="501.6" cy="122.8" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="490.0" cy="150.8" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="490.0" y1="180.0" x2="490.0" y2="209.2" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="522.2" y1="257.8" x2="501.6" y2="237.2" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="490.0" cy="209.2" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="501.6" cy="237.2" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="522.2" y1="257.8" x2="542.8" y2="278.4" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="600.0" y1="290.0" x2="570.8" y2="290.0" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="542.8" cy="278.4" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="570.8" cy="290.0" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="600.0" y1="290.0" x2="629.2" y2="290.0" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="677.8" y1="257.8" x2="657.2" y2="278.4" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="629.2" cy="290.0" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="657.2" cy="278.4" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="677.8" y1="257.8" x2="698.4" y2="237.2" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="710.0" y1="180.0" x2="710.0" y2="209.2" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="698.4" cy="237.2" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="710.0" cy="209.2" r="3.0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<rect x="705.5" y="175.5" width="9.0" height="9.0" rx="0" fill="#ffffff" stroke="#2a9d8f" stroke-width="1.5"/>
+<rect x="673.3" y="97.7" width="9.0" height="9.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="595.5" y="65.5" width="9.0" height="9.0" rx="0" fill="#ffffff" stroke="#2a9d8f" stroke-width="1.5"/>
+<rect x="517.7" y="97.7" width="9.0" height="9.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="485.5" y="175.5" width="9.0" height="9.0" rx="0" fill="#ffffff" stroke="#2a9d8f" stroke-width="1.5"/>
+<rect x="517.7" y="253.3" width="9.0" height="9.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="595.5" y="285.5" width="9.0" height="9.0" rx="0" fill="#ffffff" stroke="#2a9d8f" stroke-width="1.5"/>
+<rect x="673.3" y="253.3" width="9.0" height="9.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<text x="200.0" y="342.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">no points at the top, bottom and sides</text>
+<text x="600.0" y="342.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">points where the curve turns</text>
+</svg>

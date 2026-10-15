@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 270" width="800" height="270">
+<rect x="10.0" y="30.0" width="148.0" height="210.0" rx="10" fill="#eef0f7" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="30.0" cy="50.0" r="13" fill="#5b5bf0" stroke="none" stroke-width="1.5"/>
+<text x="30.0" y="56.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#ffffff" font-weight="bold">1</text>
+<rect x="58.0" y="72.0" width="52.0" height="72.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="65.0" y="84.0" width="11.0" height="13.0" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="78.0" y="84.0" width="11.0" height="13.0" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="91.0" y="84.0" width="11.0" height="13.0" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="65.0" y="101.0" width="11.0" height="13.0" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="78.0" y="101.0" width="11.0" height="13.0" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="91.0" y="101.0" width="11.0" height="13.0" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="65.0" y="118.0" width="11.0" height="13.0" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="78.0" y="118.0" width="11.0" height="13.0" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<rect x="91.0" y="118.0" width="11.0" height="13.0" rx="0" fill="none" stroke="#9aa0b4" stroke-width="1"/>
+<text x="84.0" y="178.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="bold">Cetak</text>
+<text x="84.0" y="204.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">template PDF-nya</text>
+<rect x="168.0" y="30.0" width="148.0" height="210.0" rx="10" fill="#eef0f7" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="188.0" cy="50.0" r="13" fill="#5b5bf0" stroke="none" stroke-width="1.5"/>
+<text x="188.0" y="56.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#ffffff" font-weight="bold">2</text>
+<rect x="208.0" y="74.0" width="52.0" height="68.0" rx="0" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<line x1="208.0" y1="128.0" x2="260.0" y2="128.0" stroke="#9aa0b4" stroke-width="1.2"/>
+<path d="M244 128.6Q241.8 128.6 240.4 127.3Q238.9 126.1 238.6 124Q236.1 126.4 234.2 127.6Q232.4 128.8 229.7 128.8Q226.4 128.8 224.1 126.9Q221.7 125 221.7 121.3Q221.7 119.5 222.4 118Q223.2 116.4 225.4 115Q227.5 113.6 231.7 112.4Q233.4 111.9 235.1 111.4Q236.8 110.9 238.4 110.4V108.7Q238.4 104.4 237.1 102.9Q235.8 101.5 232.8 101.5Q232.1 101.5 231.3 101.5Q230.5 101.6 229.6 101.8L228.4 105.7Q227.6 108.6 225.3 108.6Q222.8 108.6 222.5 106.2Q223.3 102.7 226.5 100.7Q229.6 98.7 234.2 98.7Q238.9 98.7 241.2 101.1Q243.5 103.5 243.5 109.2V121.9Q243.5 123.9 244.1 124.7Q244.7 125.5 245.6 125.5Q246.4 125.5 247 125.1Q247.5 124.8 248 124.2L249.2 125.5Q248.1 127.2 246.8 127.9Q245.5 128.6 244 128.6ZM227 120.4Q227 122.8 228.4 123.8Q229.8 124.8 231.8 124.8Q232.7 124.8 233.6 124.6Q234.4 124.3 235.5 123.7Q236.6 123 238.4 121.6V112.6Q237.1 113.1 235.7 113.5Q234.4 114 233 114.4Q230.3 115.3 229 116.3Q227.8 117.4 227.4 118.4Q227 119.5 227 120.4Z" fill="#1f2330" stroke="none" stroke-width="1.5"/>
+<line x1="248.0" y1="114.0" x2="278.0" y2="74.0" stroke="#0f0e3d" stroke-width="6"/>
+<polygon points="244.0,120.0 246.0,111.0 251.0,115.0" fill="#0f0e3d"/>
+<text x="242.0" y="178.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="bold">Tulis</text>
+<text x="242.0" y="204.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">satu karakter</text>
+<text x="242.0" y="225.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">di tiap kotak</text>
+<rect x="326.0" y="30.0" width="148.0" height="210.0" rx="10" fill="#eef0f7" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="346.0" cy="50.0" r="13" fill="#5b5bf0" stroke="none" stroke-width="1.5"/>
+<text x="346.0" y="56.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#ffffff" font-weight="bold">3</text>
+<rect x="366.0" y="90.0" width="68.0" height="46.0" rx="6" fill="#ffffff" stroke="#1f2330" stroke-width="2"/>
+<rect x="388.0" y="82.0" width="24.0" height="9.0" rx="2" fill="#1f2330" stroke="none" stroke-width="1.5"/>
+<circle cx="400.0" cy="113.0" r="14" fill="none" stroke="#1f2330" stroke-width="2.5"/>
+<circle cx="400.0" cy="113.0" r="5" fill="#5b5bf0" stroke="none" stroke-width="1.5"/>
+<text x="400.0" y="178.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="bold">Scan</text>
+<text x="400.0" y="204.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">atau foto</text>
+<text x="400.0" y="225.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">halamannya</text>
+<rect x="484.0" y="30.0" width="148.0" height="210.0" rx="10" fill="#eef0f7" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="504.0" cy="50.0" r="13" fill="#5b5bf0" stroke="none" stroke-width="1.5"/>
+<text x="504.0" y="56.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#ffffff" font-weight="bold">4</text>
+<path d="M546.5 126.5Q544.5 126.5 543.2 125.4Q541.9 124.3 541.6 122.4Q539.4 124.5 537.7 125.6Q536 126.7 533.7 126.7Q530.7 126.7 528.6 125Q526.4 123.3 526.4 120Q526.4 118.4 527.1 117Q527.8 115.6 529.7 114.3Q531.7 113 535.4 112Q537 111.5 538.5 111.1Q540 110.6 541.5 110.2V108.7Q541.5 104.7 540.3 103.4Q539.1 102.1 536.4 102.1Q535.8 102.1 535.1 102.2Q534.4 102.2 533.5 102.5L532.5 106Q531.7 108.6 529.7 108.6Q527.4 108.6 527.1 106.3Q527.9 103.3 530.7 101.5Q533.6 99.6 537.7 99.6Q541.9 99.6 544 101.8Q546 103.9 546 109V120.5Q546 122.3 546.6 123Q547.1 123.7 548 123.7Q548.7 123.7 549.2 123.4Q549.6 123.1 550.1 122.5L551.2 123.7Q550.2 125.3 549 125.9Q547.9 126.5 546.5 126.5ZM531.2 119.2Q531.2 121.3 532.5 122.2Q533.7 123.1 535.6 123.1Q536.4 123.1 537.1 122.9Q537.8 122.7 538.8 122.1Q539.9 121.5 541.5 120.3V112.2Q540.3 112.6 539 113Q537.8 113.4 536.6 113.8Q534.2 114.6 533 115.5Q531.9 116.4 531.6 117.4Q531.2 118.3 531.2 119.2Z" fill="#1f2330" stroke="none" stroke-width="1.5"/>
+<path d="M555.6 126V124.1L559.7 123.4Q559.7 121.3 559.8 118.9Q559.8 116.5 559.8 114.7V91L555.4 90.4V88.5L563.6 86L564.4 86.5L564.2 94.2V103.8Q566.1 101.6 568.2 100.6Q570.3 99.6 572.5 99.6Q575.3 99.6 577.7 101.2Q580 102.8 581.4 105.8Q582.7 108.7 582.7 112.9Q582.7 117.1 581.3 120.2Q579.8 123.3 577.3 125Q574.8 126.7 571.6 126.7Q569.7 126.7 567.8 125.9Q565.9 125.1 564.2 122.9L563.7 126.5ZM571 102.7Q569.8 102.7 568.1 103.4Q566.5 104 564.3 105.9V120.7Q566 122.2 567.6 122.9Q569.2 123.6 570.7 123.6Q573.6 123.6 575.7 121.1Q577.9 118.6 577.9 113.4Q577.9 108.2 576 105.5Q574 102.7 571 102.7Z" fill="#1f2330" stroke="none" stroke-width="1.5"/>
+<path d="M 532.0 144 l 12 10 l 30 -24" fill="none" stroke="#2a9d8f" stroke-width="5"/>
+<text x="558.0" y="178.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="bold">Periksa</text>
+<text x="558.0" y="204.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">perbaiki atau</text>
+<text x="558.0" y="225.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">lewati huruf</text>
+<rect x="642.0" y="30.0" width="148.0" height="210.0" rx="10" fill="#eef0f7" stroke="#9aa0b4" stroke-width="1.2"/>
+<circle cx="662.0" cy="50.0" r="13" fill="#5b5bf0" stroke="none" stroke-width="1.5"/>
+<text x="662.0" y="56.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#ffffff" font-weight="bold">5</text>
+<rect x="680.0" y="80.0" width="34.0" height="50.0" rx="4" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<path d="M686.2 116V114.4L689.6 113.8L698.1 89H700.6L709.1 114L712.1 114.4V116H701.2V114.4L705.2 113.9L703 107.3H693.7L691.5 113.8L695.4 114.4V116ZM694.3 105.4H702.4L698.4 93.6Z" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="1"/>
+<rect x="718.0" y="80.0" width="34.0" height="50.0" rx="4" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.2"/>
+<path d="M728.7 120.1Q728.7 122 730.1 122.9Q731.5 123.7 733.9 123.7Q737.2 123.7 738.9 122.5Q740.6 121.4 740.6 119.7Q740.6 118.3 739.7 117.4Q738.8 116.6 736.6 116.6H731.9Q731.5 116.6 731.1 116.5Q730.7 116.5 730.3 116.5Q728.7 118.2 728.7 120.1ZM733.6 109.6Q732 109.6 730.6 109.2Q729.6 110.4 729.6 111.4Q729.6 113.6 732.4 113.6H737.2Q740.5 113.6 742 114.9Q743.6 116.2 743.6 118.6Q743.6 120.4 742.4 122Q741.3 123.6 739 124.6Q736.7 125.6 733.3 125.6Q729.2 125.6 727.3 124.2Q725.4 122.8 725.4 120.7Q725.4 119.4 726.3 118.3Q727.2 117.2 729.4 116.2Q726.7 115.4 726.7 113.1Q726.7 112.2 727.3 111.1Q728 110 729.4 108.7Q728 107.9 727.2 106.5Q726.4 105.1 726.4 103Q726.4 99.9 728.4 98.2Q730.5 96.5 733.6 96.5Q736.7 96.5 738.7 98.1L743.2 96.5L743.8 96.9V99.4H739.8Q740.3 100.1 740.5 101Q740.8 102 740.8 103Q740.8 106.2 738.7 107.9Q736.7 109.6 733.6 109.6ZM733.5 108Q735.4 108 736.5 106.6Q737.6 105.1 737.6 102.9Q737.6 100.8 736.5 99.5Q735.5 98.1 733.6 98.1Q731.8 98.1 730.7 99.5Q729.6 100.9 729.6 103.1Q729.6 105.3 730.6 106.6Q731.6 108 733.5 108Z" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="1"/>
+<text x="716.0" y="178.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="bold">Selesai</text>
+<text x="716.0" y="204.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">huruf Anda sudah</text>
+<text x="716.0" y="225.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">masuk ke font</text>
+</svg>

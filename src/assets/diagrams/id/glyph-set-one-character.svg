@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 475" width="800" height="475" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif">
+<rect x="30" y="80" width="210" height="96" rx="10" fill="#eef0f7" stroke="#9aa0b4"/>
+<text x="135.0" y="112.0" font-size="18" text-anchor="middle" fill="#4a5068" font-weight="normal">satu karakter</text>
+<text x="135.0" y="142.0" font-size="22" text-anchor="middle" fill="#0f0e3d" font-weight="700">U+0041</text>
+<path d="M330.9 190H374.5V182.2L356 179.7L366.5 148.8H410.6L421 179.9L402.4 182.2V190H454.1V182.2L439.8 180.5L399.4 61.8H387.4L346.9 179.7L330.9 182.2ZM369.5 139.8 388.7 83.4 407.7 139.8Z" fill="#1f2330" stroke="none" stroke-width="0" />
+<text x="393.1" y="222.0" font-size="19" text-anchor="middle" fill="#5b5bf0" font-weight="600">A</text>
+<path d="M480.9 190H520.1V182.4L504.1 179.9L512.3 157.5H550.5L558.9 180.5L543.1 182.6V190H589.1V182.6L577.1 180.9L541.9 84.9H530.5L495.4 179.9L480.9 182.4ZM515.5 148.8 531.7 105.3 547.5 148.8Z" fill="#1f2330" stroke="none" stroke-width="0" />
+<text x="536.0" y="222.0" font-size="19" text-anchor="middle" fill="#5b5bf0" font-weight="600">A.sc</text>
+<path d="M631.5 108.9H659.6V102.8L648.8 101.3L654.5 85.1H682.4L688.3 101.7L677.3 103V108.9H711.9V103L702.8 101.8L676.2 29.4H667.8L642.4 101.1L631.5 102.8ZM656.8 78.5 668.2 45.8 680 78.5Z" fill="#1f2330" stroke="none" stroke-width="0" />
+<text x="672.0" y="222.0" font-size="19" text-anchor="middle" fill="#5b5bf0" font-weight="600">A.sups</text>
+<line x1="245.0" y1="128.0" x2="313.0" y2="128.0" stroke="#9aa0b4" stroke-width="1.6"/><polygon points="318.0,128.0 308.0,131.2 308.0,124.8" fill="#9aa0b4"/>
+<text x="530.0" y="252.0" font-size="18" text-anchor="middle" fill="#4a5068" font-weight="normal">tiga glyph untuk karakter yang sama</text>
+<rect x="30" y="310" width="210" height="96" rx="10" fill="#eef0f7" stroke="#9aa0b4"/>
+<text x="135.0" y="342.0" font-size="18" text-anchor="middle" fill="#4a5068" font-weight="normal">dua karakter</text>
+<text x="135.0" y="372.0" font-size="22" text-anchor="middle" fill="#0f0e3d" font-weight="700">U+0066 U+0069</text>
+<line x1="245.0" y1="358.0" x2="317.0" y2="358.0" stroke="#9aa0b4" stroke-width="1.6"/><polygon points="322.0,358.0 312.0,361.2 312.0,354.8" fill="#9aa0b4"/>
+<path d="M336.8 420H383.8V413.2L368.8 410.5C368.6 400.4 368.4 390.2 368.4 380.1V339.8H409.2C409.6 349.5 409.8 357.1 409.8 370.4V380.1C409.8 388.6 409.6 401 409.4 410.5L395.4 413.2V420H439.4V413.2L426.3 410.5C426.1 401 425.9 388.5 425.9 380.1V355L426.5 329.2L423.7 327.3L409.2 329.8H368C367.4 311.7 370.1 300.7 376.6 294.2C381.9 288.9 389.3 285.3 398.2 284.7L406.4 296.3C410 301.2 413.8 304.1 418.5 304.1C423.7 304.1 427.1 300.9 428 296.7C427.9 285.1 415.1 277.5 398.4 277.5C386.8 277.5 374.8 281.3 367.8 288.5C358.1 298.2 354.3 307.5 352.4 329.4L336.5 331.5V339.8H352.2V380.1C352.2 390.2 352 400.4 351.9 410.5L336.8 413.2Z" fill="#1f2330" stroke="none" stroke-width="0" />
+<text x="387.7" y="455.0" font-size="19" text-anchor="middle" fill="#5b5bf0" font-weight="600">f_i</text>
+<text x="500.0" y="370.0" font-size="18" text-anchor="start" fill="#4a5068" font-weight="normal">satu glyph (ligatur)</text>
+</svg>

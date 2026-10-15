@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 465" width="800" height="465">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#0f0e3d"/></marker></defs>
+<path d="M480.4 63.6 A248 160 0 0 1 563.0 94.4" fill="none" stroke="#0f0e3d" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M643.4 184.2 A248 160 0 0 1 643.4 245.8" fill="none" stroke="#0f0e3d" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M563.0 335.6 A248 160 0 0 1 480.4 366.4" fill="none" stroke="#0f0e3d" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M319.6 366.4 A248 160 0 0 1 237.0 335.6" fill="none" stroke="#0f0e3d" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M156.6 245.8 A248 160 0 0 1 156.6 184.2" fill="none" stroke="#0f0e3d" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M237.0 94.4 A248 160 0 0 1 319.6 63.6" fill="none" stroke="#0f0e3d" stroke-width="2" marker-end="url(#ah)"/>
+<rect x="265.0" y="21.0" width="270" height="68" rx="8" fill="#eef0f7" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="400.0" y="49.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="700">Desain</text>
+<text x="400.0" y="75.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">gambar, spasi, kerning</text>
+<rect x="479.77430013854075" y="101.0" width="270" height="68" rx="8" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="614.7743001385408" y="129.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="700">Periksa</text>
+<text x="614.7743001385408" y="155.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">Font › Periksa Font… (F7)</text>
+<rect x="479.77430013854087" y="261.0" width="270" height="68" rx="8" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="614.7743001385409" y="289.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="700">Uji</text>
+<text x="614.7743001385409" y="315.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">browser (F5), Windows (Ctrl+F5)</text>
+<rect x="265.0" y="341.0" width="270" height="68" rx="8" fill="#eef0f7" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="400.0" y="369.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="700">Ekspor</text>
+<text x="400.0" y="395.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">Ekspor Font… (Ctrl+E)</text>
+<rect x="50.22569986145925" y="261.00000000000006" width="270" height="68" rx="8" fill="#eef0f7" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="185.22569986145925" y="289.00000000000006" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="700">Terbitkan</text>
+<text x="185.22569986145925" y="315.00000000000006" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">GitHub, Google Fonts, toko</text>
+<rect x="50.22569986145922" y="101.0" width="270" height="68" rx="8" fill="#eef0f7" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="185.22569986145922" y="129.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="700">Dengarkan</text>
+<text x="185.22569986145922" y="155.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">masukan, laporan bug</text>
+
+<text x="400" y="440" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#2a9d8f" font-weight="700">Naikkan versi (1.000 → 1.001) lalu putar lagi</text>
+</svg>

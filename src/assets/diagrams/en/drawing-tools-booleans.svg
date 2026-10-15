@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 270" width="800" height="270" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif">
+<defs>
+<clipPath id="outsq0"><path clip-rule="evenodd" d="M0 40h160v220h-160ZM74 102h72v72h-72Z"/></clipPath>
+<clipPath id="insq0"><path d="M74 102h72v72h-72Z"/></clipPath>
+<clipPath id="incirc0"><path d="M8 140a50 50 0 1 0 100 0a50 50 0 1 0 -100 0Z"/></clipPath>
+<clipPath id="outsq1"><path clip-rule="evenodd" d="M160 40h160v220h-160ZM234 102h72v72h-72Z"/></clipPath>
+<clipPath id="insq1"><path d="M234 102h72v72h-72Z"/></clipPath>
+<clipPath id="incirc1"><path d="M168 140a50 50 0 1 0 100 0a50 50 0 1 0 -100 0Z"/></clipPath>
+<clipPath id="outsq2"><path clip-rule="evenodd" d="M320 40h160v220h-160ZM394 102h72v72h-72Z"/></clipPath>
+<clipPath id="insq2"><path d="M394 102h72v72h-72Z"/></clipPath>
+<clipPath id="incirc2"><path d="M328 140a50 50 0 1 0 100 0a50 50 0 1 0 -100 0Z"/></clipPath>
+<clipPath id="outsq3"><path clip-rule="evenodd" d="M480 40h160v220h-160ZM554 102h72v72h-72Z"/></clipPath>
+<clipPath id="insq3"><path d="M554 102h72v72h-72Z"/></clipPath>
+<clipPath id="incirc3"><path d="M488 140a50 50 0 1 0 100 0a50 50 0 1 0 -100 0Z"/></clipPath>
+<clipPath id="outsq4"><path clip-rule="evenodd" d="M640 40h160v220h-160ZM714 102h72v72h-72Z"/></clipPath>
+<clipPath id="insq4"><path d="M714 102h72v72h-72Z"/></clipPath>
+<clipPath id="incirc4"><path d="M648 140a50 50 0 1 0 100 0a50 50 0 1 0 -100 0Z"/></clipPath>
+</defs>
+<path d="M8 140a50 50 0 1 0 100 0a50 50 0 1 0 -100 0Z" fill="#c9c9ff" stroke="#1f2330" stroke-width="2.5" />
+<path d="M74 102h72v72h-72Z" fill="none" stroke="#5b5bf0" stroke-width="2.5" stroke-dasharray="6 4"/>
+<text x="80.0" y="240.0" font-size="19" text-anchor="middle" fill="#1f2330" font-weight="600">Before</text>
+<path d="M168 140a50 50 0 1 0 100 0a50 50 0 1 0 -100 0Z" fill="none" stroke="#5b5bf0" stroke-width="5" /><path d="M234 102h72v72h-72Z" fill="none" stroke="#5b5bf0" stroke-width="5" />
+<path d="M168 140a50 50 0 1 0 100 0a50 50 0 1 0 -100 0Z" fill="#c9c9ff" stroke="none" stroke-width="0" /><path d="M234 102h72v72h-72Z" fill="#c9c9ff" stroke="none" stroke-width="0" />
+<text x="240.0" y="240.0" font-size="19" text-anchor="middle" fill="#1f2330" font-weight="600">Union</text>
+<g clip-path="url(#outsq2)"><path d="M328 140a50 50 0 1 0 100 0a50 50 0 1 0 -100 0Z" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="2.5" /></g>
+<g clip-path="url(#incirc2)"><path d="M394 102h72v72h-72Z" fill="none" stroke="#5b5bf0" stroke-width="2.5" /></g>
+<text x="400.0" y="240.0" font-size="19" text-anchor="middle" fill="#1f2330" font-weight="600">Subtract</text>
+<g clip-path="url(#insq3)"><path d="M488 140a50 50 0 1 0 100 0a50 50 0 1 0 -100 0Z" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="2.5" /></g>
+<g clip-path="url(#incirc3)"><path d="M554 102h72v72h-72Z" fill="none" stroke="#5b5bf0" stroke-width="2.5" /></g>
+<text x="560.0" y="240.0" font-size="19" text-anchor="middle" fill="#1f2330" font-weight="600">Intersect</text>
+<path d="M648 140a50 50 0 1 0 100 0a50 50 0 1 0 -100 0ZM714 102h72v72h-72Z" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="2.5" fill-rule="evenodd"/>
+<text x="720.0" y="240.0" font-size="19" text-anchor="middle" fill="#1f2330" font-weight="600">Exclude</text>
+<text x="110.0" y="90.0" font-size="16" text-anchor="start" fill="#5b5bf0" font-weight="normal">selected</text>
+</svg>

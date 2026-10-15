@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+<path d="M258.2 322.6Q248.8 322.6 242.6 317.1Q236.3 311.7 234.8 302.6Q224.1 313 216 318.2Q208 323.4 196.5 323.4Q182.2 323.4 172 315.2Q161.7 307 161.7 290.9Q161.7 283.3 164.9 276.6Q168.2 269.8 177.6 263.7Q186.9 257.6 204.9 252.4Q212.4 250.3 219.7 248.1Q227 245.9 234.2 243.8V236.5Q234.2 217.6 228.5 211.3Q222.8 205.1 209.8 205.1Q206.9 205.1 203.4 205.3Q199.9 205.6 195.8 206.6L190.8 223.5Q187.2 236 177.3 236Q166.4 236 165.1 225.4Q168.7 210.5 182.4 201.8Q196 193.1 215.8 193.1Q236.3 193.1 246.2 203.4Q256.1 213.7 256.1 238.4V293.7Q256.1 302.1 258.7 305.6Q261.3 309.1 265.4 309.1Q268.8 309.1 271.2 307.5Q273.5 306 275.6 303.4L280.8 309.1Q276.1 316.6 270.5 319.6Q264.9 322.6 258.2 322.6ZM184.8 287.2Q184.8 297.4 190.8 301.8Q196.8 306.2 205.6 306.2Q209.5 306.2 213.1 305.2Q216.6 304.1 221.5 301.1Q226.4 298.2 234.2 292.4V253.4Q228.3 255.3 222.4 257.2Q216.6 259.2 210.6 261.2Q198.9 264.9 193.4 269.4Q188 274 186.4 278.5Q184.8 283.1 184.8 287.2Z" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="1.5"/>
+<path d="M200 170.2Q210.9 151.8 223.1 133.6Q226.7 127.6 230.2 125.3Q233.8 122.9 237.1 122.9Q240.8 122.9 243.9 125.3Q247 127.6 247 132.8Q247 135.4 245.3 138.7Q243.6 141.9 238.2 147.1Q230.1 154.4 222.4 161.3Q214.8 168.2 206.7 175.2Z" fill="#f4a261" stroke="none" stroke-width="1.5"/>
+<rect x="153.7" y="185.1" width="135.1" height="146.3" rx="0" fill="none" stroke="#5b5bf0" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="191.9" y="114.9" width="63.1" height="68.3" rx="0" fill="none" stroke="#f4a261" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="143.7" y="264.2" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="end" fill="#5b5bf0" font-weight="bold">a</text>
+<text x="181.9" y="155.1" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="end" fill="#1f2330" font-weight="bold">acutecomb</text>
+<text x="400.0" y="168.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#0f0e3d" font-weight="bold">Glyph › Decompose</text>
+<line x1="330.0" y1="185.0" x2="459.0" y2="185.0" stroke="#0f0e3d" stroke-width="2.5"/><polygon points="470.0,185.0 459.0,190.5 459.0,179.5" fill="#0f0e3d"/>
+<path d="M628.2 322.6Q618.8 322.6 612.6 317.1Q606.3 311.7 604.8 302.6Q594.1 313 586 318.2Q578 323.4 566.5 323.4Q552.2 323.4 542 315.2Q531.7 307 531.7 290.9Q531.7 283.3 535 276.6Q538.2 269.8 547.6 263.7Q556.9 257.6 574.9 252.4Q582.4 250.3 589.7 248.1Q597 245.9 604.2 243.8V236.5Q604.2 217.6 598.5 211.3Q592.8 205.1 579.8 205.1Q576.9 205.1 573.4 205.3Q569.9 205.6 565.8 206.6L560.8 223.5Q557.2 236 547.3 236Q536.4 236 535.1 225.4Q538.7 210.5 552.4 201.8Q566 193.1 585.8 193.1Q606.3 193.1 616.2 203.4Q626.1 213.7 626.1 238.4V293.7Q626.1 302.1 628.7 305.6Q631.3 309.1 635.4 309.1Q638.8 309.1 641.2 307.5Q643.5 306 645.6 303.4L650.8 309.1Q646.1 316.6 640.5 319.6Q634.9 322.6 628.2 322.6ZM554.8 287.2Q554.8 297.4 560.8 301.8Q566.8 306.2 575.6 306.2Q579.5 306.2 583 305.2Q586.6 304.1 591.5 301.1Q596.4 298.2 604.2 292.4V253.4Q598.3 255.3 592.4 257.2Q586.6 259.2 580.6 261.2Q568.9 264.9 563.4 269.4Q558 274 556.4 278.5Q554.8 283.1 554.8 287.2Z" fill="#1f2330" stroke="none" stroke-width="1.5"/>
+<path d="M570 170.2Q580.9 151.8 593.1 133.6Q596.7 127.6 600.2 125.3Q603.8 122.9 607.1 122.9Q610.8 122.9 613.9 125.3Q617 127.6 617 132.8Q617 135.4 615.3 138.7Q613.6 141.9 608.2 147.1Q600.1 154.4 592.5 161.3Q584.8 168.2 576.7 175.2Z" fill="#1f2330" stroke="none" stroke-width="1.5"/>
+<rect x="625.2" y="319.6" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="601.8" y="299.6" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="563.5" y="320.4" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="528.7" y="287.9" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="571.9" y="249.4" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="601.2" y="240.8" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="601.2" y="233.5" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="576.8" y="202.1" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="562.8" y="203.6" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="557.8" y="220.5" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="544.3" y="233.0" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="532.1" y="222.4" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="582.8" y="190.1" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="623.1" y="235.4" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="623.1" y="290.7" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="632.4" y="306.1" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="642.6" y="300.4" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="647.8" y="306.1" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="625.2" y="319.6" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="551.8" y="284.2" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="572.6" y="303.2" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="601.2" y="289.4" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="601.2" y="250.4" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="577.6" y="258.2" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="551.8" y="284.2" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="567.0" y="167.2" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="590.1" y="130.6" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="604.1" y="119.9" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="614.0" y="129.8" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="605.2" y="144.1" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<rect x="573.7" y="172.2" width="6.0" height="6.0" rx="0" fill="#ffffff" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="230.0" y="380.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="bold">aacute as a composite</text>
+<text x="230.0" y="405.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">2 components, still linked</text>
+<text x="590.0" y="380.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="bold">aacute after Decompose</text>
+<text x="590.0" y="405.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">3 plain contours, no links</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" width="800" height="460">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#0f0e3d"/></marker></defs>
+<rect x="230" y="32" width="340" height="76" rx="8" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="400" y="66" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#0f0e3d" font-weight="700">Periksa Font (F7)</text>
+<text x="400" y="92" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">seluruh font, di latar</text>
+<rect x="430" y="162" width="340" height="76" rx="8" fill="#eef0f7" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="600" y="196" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#0f0e3d" font-weight="700">Baca temuannya</text>
+<text x="600" y="222" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">error, lalu peringatan, lalu catatan</text>
+<rect x="230" y="292" width="340" height="76" rx="8" fill="#eef0f7" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="400" y="326" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#0f0e3d" font-weight="700">Perbaiki, atau klik untuk membuka</text>
+<text x="400" y="352" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">Perbaiki / Perbaiki Semua, atau edit</text>
+<rect x="30" y="162" width="340" height="76" rx="8" fill="#eef0f7" stroke="#5b5bf0" stroke-width="1.5"/>
+<text x="200" y="196" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#0f0e3d" font-weight="700">Periksa Lagi</text>
+<text x="200" y="222" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">sampai hanya sisa yang Anda terima</text>
+<path d="M572 96 Q636.0 128.0 640 160" fill="none" stroke="#0f0e3d" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M640 240 Q636.0 272.0 572 304" fill="none" stroke="#0f0e3d" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M228 304 Q164.0 272.0 160 240" fill="none" stroke="#0f0e3d" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M160 160 Q164.0 128.0 228 96" fill="none" stroke="#0f0e3d" stroke-width="2" marker-end="url(#ah)"/>
+<text x="400" y="430" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#2a9d8f" font-weight="700">Tidak ada error lagi? Uji dan ekspor.</text>
+</svg>

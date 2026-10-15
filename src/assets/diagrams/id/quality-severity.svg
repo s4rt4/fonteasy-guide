@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 330" width="800" height="330">
+<rect x="30" y="30" width="740" height="80" rx="8" fill="#eef0f7" stroke="none" stroke-width="1.5"/>
+<rect x="30" y="30" width="10" height="80" rx="0" fill="#e63946" stroke="none" stroke-width="1.5"/>
+<circle cx="85" cy="70" r="18" fill="none" stroke="#e63946" stroke-width="3"/>
+<path d="M77 62L93 78M93 62L77 78" stroke="#e63946" stroke-width="3"/>
+<text x="125" y="64" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="start" fill="#0f0e3d" font-weight="700">Error</text>
+<text x="125" y="92" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="normal">Ada yang rusak atau tidak akan berfungsi.</text>
+<text x="760" y="78" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="end" fill="#e63946" font-weight="600">Perbaiki sebelum rilis.</text>
+<rect x="30" y="130" width="740" height="80" rx="8" fill="#eef0f7" stroke="none" stroke-width="1.5"/>
+<rect x="30" y="130" width="10" height="80" rx="0" fill="#f4a261" stroke="none" stroke-width="1.5"/>
+<path d="M85 151L105 186L65 186Z" fill="none" stroke="#f4a261" stroke-width="3" stroke-linejoin="round"/>
+<path d="M85 163L85 174" stroke="#f4a261" stroke-width="3"/><circle cx="85" cy="180" r="2" fill="#f4a261"/>
+<text x="125" y="164" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="start" fill="#0f0e3d" font-weight="700">Peringatan</text>
+<text x="125" y="192" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="normal">Kemungkinan keliru, atau belum ada.</text>
+<text x="760" y="178" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="end" fill="#c46a1f" font-weight="600">Perbaiki, kecuali memang disengaja.</text>
+<rect x="30" y="230" width="740" height="80" rx="8" fill="#eef0f7" stroke="none" stroke-width="1.5"/>
+<rect x="30" y="230" width="10" height="80" rx="0" fill="#5b5bf0" stroke="none" stroke-width="1.5"/>
+<circle cx="85" cy="270" r="18" fill="none" stroke="#5b5bf0" stroke-width="3"/>
+<path d="M85 268L85 279" stroke="#5b5bf0" stroke-width="3"/><circle cx="85" cy="261" r="2.2" fill="#5b5bf0"/>
+<text x="125" y="264" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="start" fill="#0f0e3d" font-weight="700">Catatan</text>
+<text x="125" y="292" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="start" fill="#1f2330" font-weight="normal">Baik untuk diketahui; sering soal selera.</text>
+<text x="760" y="278" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="end" fill="#5b5bf0" font-weight="600">Baca, lalu putuskan.</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="800" height="340">
+<text x="200.0" y="36.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#e63946" font-weight="bold">Kontur bertumpuk</text>
+<text x="600.0" y="36.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#2a9d8f" font-weight="bold">Setelah Hapus Tumpang Tindih</text>
+<rect x="137.0" y="75.0" width="24.0" height="210.0" rx="0" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="2" fill-opacity="0.75"/>
+<rect x="239.0" y="75.0" width="24.0" height="210.0" rx="0" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="2" fill-opacity="0.75"/>
+<rect x="149.0" y="171.0" width="102.0" height="24.0" rx="0" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="2" fill-opacity="0.75"/>
+<circle cx="161.0" cy="195.0" r="11" fill="none" stroke="#5b5bf0" stroke-width="2.5"/><circle cx="161.0" cy="195.0" r="3" fill="#5b5bf0" stroke="none" stroke-width="1.5"/>
+<circle cx="161.0" cy="171.0" r="11" fill="none" stroke="#5b5bf0" stroke-width="2.5"/><circle cx="161.0" cy="171.0" r="3" fill="#5b5bf0" stroke="none" stroke-width="1.5"/>
+<circle cx="239.0" cy="195.0" r="11" fill="none" stroke="#5b5bf0" stroke-width="2.5"/><circle cx="239.0" cy="195.0" r="3" fill="#5b5bf0" stroke="none" stroke-width="1.5"/>
+<circle cx="239.0" cy="171.0" r="11" fill="none" stroke="#5b5bf0" stroke-width="2.5"/><circle cx="239.0" cy="171.0" r="3" fill="#5b5bf0" stroke="none" stroke-width="1.5"/>
+<polygon points="537.0,285.0 561.0,285.0 561.0,195.0 639.0,195.0 639.0,285.0 663.0,285.0 663.0,75.0 639.0,75.0 639.0,171.0 561.0,171.0 561.0,75.0 537.0,75.0" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="2"/>
+<rect x="533.5" y="281.5" width="7.0" height="7.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="557.5" y="281.5" width="7.0" height="7.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="557.5" y="191.5" width="7.0" height="7.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="635.5" y="191.5" width="7.0" height="7.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="635.5" y="281.5" width="7.0" height="7.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="659.5" y="281.5" width="7.0" height="7.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="659.5" y="71.5" width="7.0" height="7.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="635.5" y="71.5" width="7.0" height="7.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="635.5" y="167.5" width="7.0" height="7.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="557.5" y="167.5" width="7.0" height="7.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="557.5" y="71.5" width="7.0" height="7.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<rect x="533.5" y="71.5" width="7.0" height="7.0" rx="0" fill="#ffffff" stroke="#1f2330" stroke-width="1.5"/>
+<text x="200.0" y="322.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">3 kontur saling menumpuk</text>
+<text x="600.0" y="322.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">1 kontur, tumpukannya digabung</text>
+</svg>

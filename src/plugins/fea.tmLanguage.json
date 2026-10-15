@@ -1,0 +1,16 @@
+{
+	"name": "fea",
+	"scopeName": "source.fea",
+	"patterns": [
+		{ "name": "comment.line.number-sign.fea", "match": "#.*$" },
+		{ "name": "string.quoted.double.fea", "begin": "\"", "end": "\"" },
+		{
+			"name": "keyword.control.fea",
+			"match": "\\b(feature|lookup|table|languagesystem|script|language|include|exclude_dflt|include_dflt|required|useExtension|lookupflag|markClass|anchorDef|valueRecordDef|parameters|featureNames|name|cvParameters|sizemenuname|subtable|enum|enumerate|ignore|reversesub|rsub|sub|substitute|pos|position|by|from|cursive|base|ligature|mark|anchor|NULL)\\b"
+		},
+		{ "name": "storage.modifier.fea", "match": "\\b(RightToLeft|IgnoreBaseGlyphs|IgnoreLigatures|IgnoreMarks|MarkAttachmentType|UseMarkFilteringSet)\\b" },
+		{ "name": "variable.other.class.fea", "match": "@[-A-Za-z0-9_.]+" },
+		{ "name": "constant.numeric.fea", "match": "-?\\b[0-9]+\\b" },
+		{ "name": "punctuation.marker.fea", "match": "'" }
+	]
+}

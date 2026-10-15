@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" width="800" height="460">
+<text x="170.0" y="32.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="bold">Di aplikasi gambar</text>
+<text x="610.0" y="32.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0f0e3d" font-weight="bold">Di FontEasy</text>
+<circle cx="170.0" cy="135.0" r="72" fill="#1f2330" stroke="none" stroke-width="1.5"/>
+<circle cx="170.0" cy="135.0" r="34" fill="#ffffff" stroke="#9aa0b4" stroke-width="1.5"/>
+<text x="170.0" y="239.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">bentuk hitam, bentuk putih di atasnya</text>
+<line x1="300.0" y1="135.0" x2="457.0" y2="135.0" stroke="#0f0e3d" stroke-width="3"/><polygon points="470.0,135.0 457.0,141.5 457.0,128.5" fill="#0f0e3d"/>
+<path d="M 538 135 a 72 72 0 1 0 144 0 a 72 72 0 1 0 -144 0 Z M 576 135 a 34 34 0 1 1 68 0 a 34 34 0 1 1 -68 0 Z" fill="#c9c9ff" stroke="#5b5bf0" stroke-width="2"/>
+<text x="610.0" y="239.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">satu outline berlubang</text>
+<path d="M 210 282 A 62 62 0 1 0 210 398" fill="none" stroke="#1f2330" stroke-width="26"/>
+<text x="170.0" y="440.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">stroke (garis yang punya tebal)</text>
+<line x1="300.0" y1="340.0" x2="457.0" y2="340.0" stroke="#0f0e3d" stroke-width="3"/><polygon points="470.0,340.0 457.0,346.5 457.0,333.5" fill="#0f0e3d"/>
+<path d="M 650 282 A 62 62 0 1 0 650 398" fill="none" stroke="#5b5bf0" stroke-width="30"/>
+<path d="M 650 282 A 62 62 0 1 0 650 398" fill="none" stroke="#c9c9ff" stroke-width="26"/>
+<text x="610.0" y="440.0" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">outline yang bisa diedit</text>
+</svg>

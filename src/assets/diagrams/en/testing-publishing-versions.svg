@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="800" height="340">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#0f0e3d"/></marker></defs>
+<line x1="60" y1="110" x2="740" y2="110" stroke="#0f0e3d" stroke-width="3" marker-end="url(#ah)"/>
+<circle cx="110" cy="110" r="12" fill="#5b5bf0" stroke="#ffffff" stroke-width="3"/>
+<text x="110" y="80" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="24" text-anchor="middle" fill="#0f0e3d" font-weight="700">1.000</text>
+<text x="110" y="150" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">first release</text>
+<circle cx="300" cy="110" r="12" fill="#5b5bf0" stroke="#ffffff" stroke-width="3"/>
+<text x="300" y="80" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="24" text-anchor="middle" fill="#0f0e3d" font-weight="700">1.001</text>
+<text x="300" y="150" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">small fix: a kerning</text>
+<text x="300" y="172" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">pair, a glitch</text>
+<circle cx="490" cy="110" r="12" fill="#5b5bf0" stroke="#ffffff" stroke-width="3"/>
+<text x="490" y="80" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="24" text-anchor="middle" fill="#0f0e3d" font-weight="700">1.100</text>
+<text x="490" y="150" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">new glyphs or a new</text>
+<text x="490" y="172" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">feature</text>
+<circle cx="680" cy="110" r="12" fill="#5b5bf0" stroke="#ffffff" stroke-width="3"/>
+<text x="680" y="80" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="24" text-anchor="middle" fill="#0f0e3d" font-weight="700">2.000</text>
+<text x="680" y="150" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">redrawn, or big</text>
+<text x="680" y="172" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2330" font-weight="normal">changes</text>
+<rect x="160" y="230" width="480" height="90" rx="8" fill="#eef0f7" stroke="none" stroke-width="1.5"/>
+<text x="400" y="268" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="30" text-anchor="middle" fill="#0f0e3d" font-weight="700">1 . 100</text>
+<text x="300" y="304" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#5b5bf0" font-weight="600">Version (major): 1</text>
+<text x="510" y="304" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#5b5bf0" font-weight="600">Version (minor): 100</text>
+</svg>
