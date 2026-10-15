@@ -18,7 +18,7 @@
     version: "For FontEasy 1.5", edition: "First edition, October 2026",
     blurb: "FontEasy is a free font editor for Windows. This guide takes you from the very first idea to a finished font that you can install, share and sell: drawing letters, spacing and kerning, OpenType features, variable and colour fonts, checking and exporting. Every term is explained, every step is shown.",
     rights: "Part of the FontEasy project (MIT or Apache-2.0). Set in Source Serif 4, Source Sans 3 and Source Code Pro (SIL Open Font License). Screenshots show FontEasy 1.5 with Source Serif 4, Mutator Sans and Source Code Pro.",
-    web: "Read online and search: s4rt4.github.io/fonteasy",
+    web: "Read online and search: s4rt4.github.io/fonteasy-guide",
   ),
   id: (
     note: "Catatan", tip: "Tips", caution: "Perhatian", danger: "Bahaya",
@@ -27,7 +27,7 @@
     version: "Untuk FontEasy 1.5", edition: "Edisi pertama, Oktober 2026",
     blurb: "FontEasy adalah editor font gratis untuk Windows. Panduan ini menemani Anda dari ide pertama hingga font jadi yang bisa dipasang, dibagikan, dan dijual: menggambar huruf, spasi dan kerning, fitur OpenType, font variabel dan font warna, pemeriksaan, hingga ekspor. Setiap istilah dijelaskan, setiap langkah diperlihatkan.",
     rights: "Bagian dari proyek FontEasy (MIT atau Apache-2.0). Diset dengan Source Serif 4, Source Sans 3, dan Source Code Pro (SIL Open Font License). Tangkapan layar memperlihatkan FontEasy 1.5 dengan Source Serif 4, Mutator Sans, dan Source Code Pro.",
-    web: "Baca daring dan cari topik: s4rt4.github.io/fonteasy/id",
+    web: "Baca daring dan cari topik: s4rt4.github.io/fonteasy-guide/id",
   ),
 )
 

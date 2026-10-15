@@ -42,7 +42,7 @@ Windows Anda sendiri.
 
 FontEasy diterbitkan di halaman rilis GitHub:
 
-**https://github.com/s4rt4/fonteasy/releases**
+**https://github.com/s4rt4/fonteasy-guide/releases**
 
 GitHub adalah situs tempat proyek perangkat lunak menyimpan kode sumber dan menerbitkan rilisnya. Anda
 tidak perlu akun GitHub untuk mengunduh. Buka halaman itu di browser dan lihat rilis terbaru (paling
@@ -160,7 +160,7 @@ diunduh". Di Microsoft Edge, buka daftar unduhan, arahkan ke file itu, klik tomb
 
 :::danger
 Klik **Tetap jalankan** hanya untuk file yang Anda unduh sendiri dari
-`https://github.com/s4rt4/fonteasy/releases`. Bila ada file yang mengaku FontEasy sampai kepada Anda
+`https://github.com/s4rt4/fonteasy-guide/releases`. Bila ada file yang mengaku FontEasy sampai kepada Anda
 lewat jalan lain (lampiran email, situs unduhan yang tidak Anda kenal), hapus file itu dan unduh
 ulang FontEasy dari halaman rilis.
 :::
@@ -285,7 +285,7 @@ Font tetap bisa diekspor, hanya tanpa *hinting* TrueType.
 ## Ringkasan
 
 - FontEasy berjalan di Windows 64-bit dan tidak memerlukan hak administrator.
-- Unduh dari https://github.com/s4rt4/fonteasy/releases: penginstal `…-setup.exe` untuk kebanyakan
+- Unduh dari https://github.com/s4rt4/fonteasy-guide/releases: penginstal `…-setup.exe` untuk kebanyakan
   orang, `.zip` untuk salinan portabel.
 - Penginstal memasang FontEasy di folder pengguna Anda, menambah entri di menu Start dan (opsional)
   pintasan di desktop, dan bisa dihapus lewat Pengaturan › Aplikasi.

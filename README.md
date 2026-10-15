@@ -1,6 +1,6 @@
 # FontEasy user guide
 
-The guide in English and Indonesian, published at <https://s4rt4.github.io/fonteasy/> and as
+The guide in English and Indonesian, published at <https://s4rt4.github.io/fonteasy-guide/> and as
 two PDF books (attached to each GitHub release). One set of Markdown files makes both.
 
 - `src/content/docs/<part>/<chapter>.md`: English; `src/content/docs/id/…`: Indonesian.
@@ -18,7 +18,20 @@ npm run dev      # http://localhost:4321/fonteasy/
 npm run build    # into guide/dist
 ```
 
-Pushing changes under `guide/` to `main` publishes the site (`.github/workflows/guide.yml`).
+## Publishing
+
+FontEasy's sources are private; the guide lives in the public repository
+[s4rt4/fonteasy-guide](https://github.com/s4rt4/fonteasy-guide), which is this `guide/` folder
+split out of the FontEasy repository. From the FontEasy repository:
+
+```
+git subtree split --prefix guide -b guide-public
+git push https://github.com/s4rt4/fonteasy-guide.git guide-public:main
+```
+
+A push there publishes the site (`.github/workflows/pages.yml`). Releases of
+s4rt4/fonteasy-guide carry the PDFs and the FontEasy installer and zip, so readers can download
+them.
 
 ## Screenshots
 

@@ -40,7 +40,7 @@ account only.
 
 FontEasy is published on its GitHub releases page:
 
-**https://github.com/s4rt4/fonteasy/releases**
+**https://github.com/s4rt4/fonteasy-guide/releases**
 
 GitHub is a website where software projects keep their source code and publish their releases. You
 do not need a GitHub account to download. Open the page in your browser and look at the newest
@@ -154,7 +154,7 @@ choose **Keep**. Other browsers have a similar option.
 
 :::danger
 Only click **Run anyway** for files you downloaded yourself from
-`https://github.com/s4rt4/fonteasy/releases`. If a file claiming to be FontEasy reached you some other
+`https://github.com/s4rt4/fonteasy-guide/releases`. If a file claiming to be FontEasy reached you some other
 way (an email attachment, a download site you do not know), delete it and download FontEasy again
 from the releases page.
 :::
@@ -274,7 +274,7 @@ Fonts still export, only without TrueType hints.
 ## Summary
 
 - FontEasy runs on 64-bit Windows and needs no administrator rights.
-- Download it from https://github.com/s4rt4/fonteasy/releases: the `…-setup.exe` installer for most
+- Download it from https://github.com/s4rt4/fonteasy-guide/releases: the `…-setup.exe` installer for most
   people, the `.zip` for a portable copy.
 - The installer puts FontEasy in your user folder, adds a Start menu entry and optionally a desktop
   shortcut, and can be removed through Settings › Apps.

@@ -183,7 +183,7 @@ Selama masih mendesain, hindari siklus ini: pakai **Berkas › Uji Font di Brows
 
 ### Windows SmartScreen memberi peringatan saat saya menjalankan installer FontEasy.
 
-Saat Anda mengunduh program yang belum dikenal Windows, Microsoft Defender SmartScreen bisa menampilkan "Windows protected your PC". Kalau Anda mengunduh FontEasy dari halaman GitHub resminya (https://github.com/s4rt4/fonteasy), klik **More info** lalu **Run anyway**. Installer memasang FontEasy hanya untuk akun Anda dan tidak memerlukan hak administrator. Kalau Anda mengunduhnya dari tempat lain, jangan jalankan. Lihat [Memasang FontEasy](/start/install/).
+Saat Anda mengunduh program yang belum dikenal Windows, Microsoft Defender SmartScreen bisa menampilkan "Windows protected your PC". Kalau Anda mengunduh FontEasy dari halaman GitHub resminya (https://github.com/s4rt4/fonteasy-guide), klik **More info** lalu **Run anyway**. Installer memasang FontEasy hanya untuk akun Anda dan tidak memerlukan hak administrator. Kalau Anda mengunduhnya dari tempat lain, jangan jalankan. Lihat [Memasang FontEasy](/start/install/).
 
 ### Ekspor mengatakan ada yang gagal.
 
@@ -294,7 +294,7 @@ Kalau font masih terbuka, pakai **Edit › Batalkan** atau panel **Riwayat** unt
 
 ### Bagaimana cara melaporkan bug?
 
-Buat *issue* di GitHub: https://github.com/s4rt4/fonteasy/issues. Laporan yang baik membantu masalah cepat diperbaiki:
+Buat *issue* di GitHub: https://github.com/s4rt4/fonteasy-guide/issues. Laporan yang baik membantu masalah cepat diperbaiki:
 
 1. **Versi FontEasy.** Tertera di kanan bawah jendela ("FontEasy 1.5.0") dan di **Bantuan › Tentang FontEasy**.
 2. **Apa yang Anda lakukan**, langkah demi langkah, supaya orang lain bisa mengulanginya.
@@ -316,7 +316,7 @@ Laporan boleh ditulis dalam bahasa Inggris supaya bisa dibaca lebih banyak orang
 - Masalah fitur biasanya berasal dari nama glyph; periksa namanya lalu **Perbarui Fitur Otomatis**.
 - Setelah memasang font, buka ulang programnya; ganti versi lama dengan bersih, dan uji dengan **Uji Font di Browser** atau **Pasang Font untuk Uji**.
 - Simpan otomatis dan **Pulihkan** melindungi Anda dari crash, tetapi tidak dari **Jangan Simpan**.
-- Laporkan bug di https://github.com/s4rt4/fonteasy/issues dengan versi, langkah-langkah, dan tangkapan layar.
+- Laporkan bug di https://github.com/s4rt4/fonteasy-guide/issues dengan versi, langkah-langkah, dan tangkapan layar.
 
 ## Coba sendiri
 

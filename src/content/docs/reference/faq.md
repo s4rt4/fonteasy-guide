@@ -183,7 +183,7 @@ While you are still designing, avoid this cycle: use **File › Test Font in Bro
 
 ### Windows SmartScreen warns me when I run the FontEasy installer.
 
-When you download a program that Windows does not know yet, Microsoft Defender SmartScreen may show "Windows protected your PC". If you downloaded FontEasy from its official GitHub page (https://github.com/s4rt4/fonteasy), click **More info** and then **Run anyway**. The installer installs FontEasy for your user only and does not need administrator rights. If you downloaded it from anywhere else, do not run it. See [Installing FontEasy](/start/install/).
+When you download a program that Windows does not know yet, Microsoft Defender SmartScreen may show "Windows protected your PC". If you downloaded FontEasy from its official GitHub page (https://github.com/s4rt4/fonteasy-guide), click **More info** and then **Run anyway**. The installer installs FontEasy for your user only and does not need administrator rights. If you downloaded it from anywhere else, do not run it. See [Installing FontEasy](/start/install/).
 
 ### Export says something failed.
 
@@ -294,7 +294,7 @@ If the font is still open, use **Edit › Undo** or the **History** panel to go 
 
 ### How do I report a bug?
 
-Open an issue on GitHub: https://github.com/s4rt4/fonteasy/issues. A good report helps the problem get fixed quickly:
+Open an issue on GitHub: https://github.com/s4rt4/fonteasy-guide/issues. A good report helps the problem get fixed quickly:
 
 1. **The FontEasy version.** It is at the bottom right of the window ("FontEasy 1.5.0") and in **Help › About FontEasy**.
 2. **What you did**, step by step, so someone else can do the same.
@@ -316,7 +316,7 @@ Check first whether someone already reported the same problem; if so, add your d
 - Feature problems usually come from glyph names; check them and **Update Automatic Features**.
 - After installing a font, restart the program; replace old versions cleanly and test with **Test Font in Browser** or **Install Font for Testing**.
 - Autosave and **Recover** protect you against crashes, but not against **Don't Save**.
-- Report bugs at https://github.com/s4rt4/fonteasy/issues with the version, steps and a screenshot.
+- Report bugs at https://github.com/s4rt4/fonteasy-guide/issues with the version, steps and a screenshot.
 
 ## Try it yourself
 

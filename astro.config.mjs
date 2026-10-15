@@ -8,7 +8,7 @@ import remarkGuide from './src/plugins/remark-guide.mjs';
 import rehypeFigure from './src/plugins/rehype-figure.mjs';
 import fea from './src/plugins/fea.tmLanguage.json' with { type: 'json' };
 
-const base = '/fonteasy';
+const base = '/fonteasy-guide';
 
 export default defineConfig({
 	site: 'https://s4rt4.github.io',
@@ -28,7 +28,7 @@ export default defineConfig({
 				root: { label: 'English', lang: 'en' },
 				id: { label: 'Bahasa Indonesia', lang: 'id' },
 			},
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/s4rt4/fonteasy' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/s4rt4/fonteasy-guide' }],
 			customCss: ['./src/styles/custom.css'],
 			// OpenType feature code has no grammar in the bundle: a small one of our own.
 			expressiveCode: { shiki: { langs: [fea] } },
